@@ -1,0 +1,10 @@
+{
+	"serversList": [
+	  {
+		"ip": "52.173.105.185",
+		"port" : 2052,
+		"name" : "Server #1 Poseidon",
+		"currentLoad" : ""
+	  }
+	]
+  }
