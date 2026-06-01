@@ -1,0 +1,5358 @@
+{
+	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
+	"globalversionincrement": 1,
+	"gameversion": "0.0.1",
+	"showspecialsplash":false,
+	"assets": [
+	  {
+		"name": "revomon_novus_database.sqlite",
+		"version": 30
+	  },
+	  {
+		"name": "quest",
+		"version": 74
+	  },
+	  {
+		"name": "misc",
+		"version": 33
+	  },
+	  {
+		"name": "npc",
+		"version": 26
+	  },
+	  {
+		"name": "_preload",
+		"version": 385
+	  },
+	  {
+		"name": "lobby",
+		"version": 352
+	  },
+	{"name": "terraincommon", "version": 271},
+	{"name": "mainscene", "version": 266},
+	{"name": "Terrain_0_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_0_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_0_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_0_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_0_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_0_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_0_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_0_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_1_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_2_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_3_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_4_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_5_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_6_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_0-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_1-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_2-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_3-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_4-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_5-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_6-20250115 - 201626", "version": 226},
+	{"name": "Terrain_7_7-20250115 - 201626", "version": 226},
+	{"name": "Terrain_8_0", "version": 226},
+	{"name": "Terrain_8_1", "version": 226},
+	{"name": "Terrain_8_2", "version": 226},
+	{"name": "Terrain_8_3", "version": 226},
+	{"name": "Terrain_8_4", "version": 226},
+	{"name": "Terrain_8_5", "version": 226},
+	{"name": "Terrain_8_6", "version": 226},
+	{"name": "Terrain_8_7", "version": 226},
+	{"name": "GymBeach", "version": 226},
+	{"name": "GymDesert", "version": 226},
+	{"name": "GymForest", "version": 226},
+	{"name": "GymJungle", "version": 226},
+	{"name": "GymMountain", "version": 226},
+	{"name": "GymPlains", "version": 226},
+	{"name": "GymSwamp", "version": 226},
+	{"name": "GymTundra", "version": 226},
+	{"name": "GymUnderwater", "version": 226},
+	{"name": "GymUrban", "version": 226},
+	{"name": "SafariBeach", "version": 226},
+	{"name": "SafariCrater", "version": 226},
+	{"name": "SafariDesert", "version": 226},
+	{"name": "SafariForest", "version": 226},
+	{"name": "SafariJungle", "version": 226},
+	{"name": "SafariMountain", "version": 226},
+	{"name": "SafariPlains", "version": 226},
+	{"name": "SafariSwamp", "version": 226},
+	{"name": "SafariTundra", "version": 226},
+	{"name": "SafariUnderwater", "version": 226},
+	{"name": "SafariUrban", "version": 226},
+	{"name": "ArenaBeach", "version": 226},
+	{"name": "ArenaCrater", "version": 226},
+	{"name": "ArenaDesert", "version": 226},
+	{"name": "ArenaForest", "version": 226},
+	{"name": "ArenaJungle", "version": 226},
+	{"name": "ArenaMountain", "version": 226},
+	{"name": "ArenaPlains", "version": 226},
+	{"name": "ArenaSwamp", "version": 226},
+	{"name": "ArenaTundra", "version": 226},
+	{"name": "ArenaUnderwater", "version": 226},
+	{"name": "ArenaUrban", "version": 226},
+	{"name": "Cave", "version": 226},
+	{"name": "Underwater", "version": 226},
+	{"name": "Boss room", "version": 226},
+	{"name": "ArenaBeachBattleZone", "version": 226},
+	{"name": "ArenaCraterBattleZone", "version": 226},
+	{"name": "ArenaDesertBattleZone", "version": 226},
+	{"name": "ArenaForestBattleZone", "version": 226},
+	{"name": "ArenaJungleBattleZone", "version": 226},
+	{"name": "ArenaMountainBattleZone", "version": 226},
+	{"name": "ArenaPlainsBattleZone", "version": 226},
+	{"name": "ArenaSwampBattleZone", "version": 226},
+	{"name": "ArenaTundraBattleZone", "version": 226},
+	{"name": "ArenaUnderwaterBattleZone", "version": 226},
+	{"name": "ArenaUrbanBattleZone", "version": 226},
+		{
+		"name": "absorb",
+		"version": 26
+	},
+	  {
+		"name": "acid01",
+		"version": 26
+	  },
+	  {
+		"name": "acid02",
+		"version": 26
+	  },
+	  {
+		"name": "acidarmor",
+		"version": 26
+	  },
+	  {
+		"name": "acidspray01",
+		"version": 26
+	  },
+	  {
+		"name": "acidspray02",
+		"version": 26
+	  },
+	  {
+		"name": "acrobatics_1",
+		"version": 26
+	  },
+	  {
+		"name": "acrobatics_2",
+		"version": 26
+	  },
+	  {
+		"name": "acupressure",
+		"version": 26
+	  },
+	  {
+		"name": "aerialace",
+		"version": 26
+	  },
+	  {
+		"name": "aerialace2",
+		"version": 26
+	  },
+	  {
+		"name": "aeroblast_1",
+		"version": 26
+	  },
+	  {
+		"name": "aeroblast_2",
+		"version": 26
+	  },
+	  {
+		"name": "agility",
+		"version": 26
+	  },
+	  {
+		"name": "aircutter1",
+		"version": 26
+	  },
+	  {
+		"name": "aircutter2",
+		"version": 26
+	  },
+	  {
+		"name": "airslash_1",
+		"version": 26
+	  },
+	  {
+		"name": "airslash_2",
+		"version": 26
+	  },
+	  {
+		"name": "amnesia",
+		"version": 26
+	  },
+	  {
+		"name": "ancientpower01",
+		"version": 26
+	  },
+	  {
+		"name": "ancientpower02",
+		"version": 26
+	  },
+	  {
+		"name": "ancientruins01",
+		"version": 26
+	  },
+	  {
+		"name": "ancientruins02",
+		"version": 26
+	  },
+	  {
+		"name": "aquajet1",
+		"version": 26
+	  },
+	  {
+		"name": "aquajet2",
+		"version": 26
+	  },
+	  {
+		"name": "aquaring1",
+		"version": 26
+	  },
+	  {
+		"name": "aquatail_1",
+		"version": 26
+	  },
+	  {
+		"name": "aquatail_2",
+		"version": 26
+	  },
+	  {
+		"name": "armthrust01",
+		"version": 26
+	  },
+	  {
+		"name": "armthrust02",
+		"version": 26
+	  },
+	  {
+		"name": "aromatherapy1",
+		"version": 26
+	  },
+	  {
+		"name": "aromaticmist01",
+		"version": 26
+	  },
+	  {
+		"name": "aromaticmist02",
+		"version": 26
+	  },
+	  {
+		"name": "assurance1",
+		"version": 26
+	  },
+	  {
+		"name": "assurance2",
+		"version": 26
+	  },
+	  {
+		"name": "astonish1",
+		"version": 26
+	  },
+	  {
+		"name": "astonish2",
+		"version": 26
+	  },
+	  {
+		"name": "attract",
+		"version": 26
+	  },
+	  {
+		"name": "aurasphere_1",
+		"version": 26
+	  },
+	  {
+		"name": "aurasphere_2",
+		"version": 26
+	  },
+	  {
+		"name": "aurasphere_3",
+		"version": 26
+	  },
+	  {
+		"name": "aurorabeam01",
+		"version": 26
+	  },
+	  {
+		"name": "aurorabeam02",
+		"version": 26
+	  },
+	  {
+		"name": "autotomize",
+		"version": 26
+	  },
+	  {
+		"name": "avalanche1",
+		"version": 26
+	  },
+	  {
+		"name": "avalanche2",
+		"version": 26
+	  },
+	  {
+		"name": "babydolleyes01",
+		"version": 26
+	  },
+	  {
+		"name": "barrage01",
+		"version": 26
+	  },
+	  {
+		"name": "barrage02",
+		"version": 26
+	  },
+	  {
+		"name": "barrage03",
+		"version": 26
+	  },
+	  {
+		"name": "barrier",
+		"version": 26
+	  },
+	  {
+		"name": "batonpass",
+		"version": 26
+	  },
+	  {
+		"name": "beatup01",
+		"version": 26
+	  },
+	  {
+		"name": "beatup02",
+		"version": 26
+	  },
+	  {
+		"name": "belch_1",
+		"version": 26
+	  },
+	  {
+		"name": "belch_2",
+		"version": 26
+	  },
+	  {
+		"name": "bellydrum",
+		"version": 26
+	  },
+	  {
+		"name": "bide",
+		"version": 26
+	  },
+	  {
+		"name": "bigereff",
+		"version": 26
+	  },
+	  {
+		"name": "bite01",
+		"version": 26
+	  },
+	  {
+		"name": "bite02",
+		"version": 26
+	  },
+	  {
+		"name": "blastburn1",
+		"version": 26
+	  },
+	  {
+		"name": "blastburn2",
+		"version": 26
+	  },
+	  {
+		"name": "blazekick01",
+		"version": 26
+	  },
+	  {
+		"name": "blazekick02",
+		"version": 26
+	  },
+	  {
+		"name": "blizzard",
+		"version": 26
+	  },
+	  {
+		"name": "blizzard02",
+		"version": 26
+	  },
+	  {
+		"name": "block",
+		"version": 26
+	  },
+	  {
+		"name": "block2",
+		"version": 26
+	  },
+	  {
+		"name": "bloomdoom_1",
+		"version": 26
+	  },
+	  {
+		"name": "bloomdoom_2",
+		"version": 26
+	  },
+	  {
+		"name": "blueflare01",
+		"version": 26
+	  },
+	  {
+		"name": "blueflare02",
+		"version": 26
+	  },
+	  {
+		"name": "bodyslam01",
+		"version": 26
+	  },
+	  {
+		"name": "bodyslam02",
+		"version": 26
+	  },
+	  {
+		"name": "boltstrike01",
+		"version": 26
+	  },
+	  {
+		"name": "boltstrike02",
+		"version": 26
+	  },
+	  {
+		"name": "boneclub_1",
+		"version": 26
+	  },
+	  {
+		"name": "boneclub_2",
+		"version": 26
+	  },
+	  {
+		"name": "bonemerang",
+		"version": 26
+	  },
+	  {
+		"name": "bonerush",
+		"version": 26
+	  },
+	  {
+		"name": "boomburst01",
+		"version": 26
+	  },
+	  {
+		"name": "boomburst02",
+		"version": 26
+	  },
+	  {
+		"name": "bounce_1",
+		"version": 26
+	  },
+	  {
+		"name": "bounce_2",
+		"version": 26
+	  },
+	  {
+		"name": "bravebird1",
+		"version": 26
+	  },
+	  {
+		"name": "bravebird2",
+		"version": 26
+	  },
+	  {
+		"name": "brickbreak01",
+		"version": 26
+	  },
+	  {
+		"name": "brickbreak02",
+		"version": 26
+	  },
+	  {
+		"name": "brine1",
+		"version": 26
+	  },
+	  {
+		"name": "brine2",
+		"version": 26
+	  },
+	  {
+		"name": "bubble01",
+		"version": 26
+	  },
+	  {
+		"name": "bubble02",
+		"version": 26
+	  },
+	  {
+		"name": "bubble03",
+		"version": 26
+	  },
+	  {
+		"name": "bubble04",
+		"version": 26
+	  },
+	  {
+		"name": "bubblebeam01",
+		"version": 26
+	  },
+	  {
+		"name": "bubblebeam02",
+		"version": 26
+	  },
+	  {
+		"name": "bugbite1",
+		"version": 26
+	  },
+	  {
+		"name": "bugbite2",
+		"version": 26
+	  },
+	  {
+		"name": "bugbuzz_1",
+		"version": 26
+	  },
+	  {
+		"name": "bugbuzz_2",
+		"version": 26
+	  },
+	  {
+		"name": "bulkup",
+		"version": 26
+	  },
+	  {
+		"name": "bulldoze_1",
+		"version": 26
+	  },
+	  {
+		"name": "bulldoze_2",
+		"version": 26
+	  },
+	  {
+		"name": "bulletpunch1",
+		"version": 26
+	  },
+	  {
+		"name": "bulletpunch2",
+		"version": 26
+	  },
+	  {
+		"name": "bulletseed01",
+		"version": 26
+	  },
+	  {
+		"name": "bulletseed02",
+		"version": 26
+	  },
+	  {
+		"name": "burstfloor01",
+		"version": 26
+	  },
+	  {
+		"name": "burstfloor02",
+		"version": 26
+	  },
+	  {
+		"name": "calmmind",
+		"version": 26
+	  },
+	  {
+		"name": "camouflage",
+		"version": 26
+	  },
+	  {
+		"name": "captivate",
+		"version": 26
+	  },
+	  {
+		"name": "charge",
+		"version": 26
+	  },
+	  {
+		"name": "chargebeam01",
+		"version": 26
+	  },
+	  {
+		"name": "charm",
+		"version": 26
+	  },
+	  {
+		"name": "chipaway_1",
+		"version": 26
+	  },
+	  {
+		"name": "chipaway_2",
+		"version": 26
+	  },
+	  {
+		"name": "circlethrow_1",
+		"version": 26
+	  },
+	  {
+		"name": "circlethrow_2",
+		"version": 26
+	  },
+	  {
+		"name": "clamp1",
+		"version": 26
+	  },
+	  {
+		"name": "clamp2",
+		"version": 26
+	  },
+	  {
+		"name": "clearsmog_1",
+		"version": 26
+	  },
+	  {
+		"name": "clearsmog_2",
+		"version": 26
+	  },
+	  {
+		"name": "closecombat1",
+		"version": 26
+	  },
+	  {
+		"name": "closecombat2",
+		"version": 26
+	  },
+	  {
+		"name": "coil",
+		"version": 26
+	  },
+	  {
+		"name": "cometpunch",
+		"version": 26
+	  },
+	  {
+		"name": "cometpunch01",
+		"version": 26
+	  },
+	  {
+		"name": "confide01",
+		"version": 26
+	  },
+	  {
+		"name": "confide02",
+		"version": 26
+	  },
+	  {
+		"name": "confuseray01",
+		"version": 26
+	  },
+	  {
+		"name": "confuseray02",
+		"version": 26
+	  },
+	  {
+		"name": "confuseray03",
+		"version": 26
+	  },
+	  {
+		"name": "confusion01",
+		"version": 26
+	  },
+	  {
+		"name": "confusion02",
+		"version": 26
+	  },
+	  {
+		"name": "constrict1",
+		"version": 26
+	  },
+	  {
+		"name": "constrict2",
+		"version": 26
+	  },
+	  {
+		"name": "conversion",
+		"version": 26
+	  },
+	  {
+		"name": "conversion2",
+		"version": 26
+	  },
+	  {
+		"name": "cosmicpower",
+		"version": 26
+	  },
+	  {
+		"name": "cottonguard",
+		"version": 26
+	  },
+	  {
+		"name": "cottonspore01",
+		"version": 26
+	  },
+	  {
+		"name": "cottonspore02",
+		"version": 26
+	  },
+	  {
+		"name": "counter01",
+		"version": 26
+	  },
+	  {
+		"name": "counter02",
+		"version": 26
+	  },
+	  {
+		"name": "covet",
+		"version": 26
+	  },
+	  {
+		"name": "covet2",
+		"version": 26
+	  },
+	  {
+		"name": "crabhammer",
+		"version": 26
+	  },
+	  {
+		"name": "crabhammer01",
+		"version": 26
+	  },
+	  {
+		"name": "craftyshield",
+		"version": 26
+	  },
+	  {
+		"name": "crosschop01",
+		"version": 26
+	  },
+	  {
+		"name": "crosschop02",
+		"version": 26
+	  },
+	  {
+		"name": "crosspoison01",
+		"version": 26
+	  },
+	  {
+		"name": "crosspoison02",
+		"version": 26
+	  },
+	  {
+		"name": "crunch01",
+		"version": 26
+	  },
+	  {
+		"name": "crunch02",
+		"version": 26
+	  },
+	  {
+		"name": "crushclaw1",
+		"version": 26
+	  },
+	  {
+		"name": "crushclaw2",
+		"version": 26
+	  },
+	  {
+		"name": "crushgrip1",
+		"version": 26
+	  },
+	  {
+		"name": "crushgrip2",
+		"version": 26
+	  },
+	  {
+		"name": "curse1",
+		"version": 26
+	  },
+	  {
+		"name": "dark",
+		"version": 26
+	  },
+	  {
+		"name": "darkattack01",
+		"version": 26
+	  },
+	  {
+		"name": "darkattack02",
+		"version": 26
+	  },
+	  {
+		"name": "darkenergyball01",
+		"version": 26
+	  },
+	  {
+		"name": "darkenergyball02",
+		"version": 26
+	  },
+	  {
+		"name": "darkpulse_1",
+		"version": 26
+	  },
+	  {
+		"name": "darkpulse_2",
+		"version": 26
+	  },
+	  {
+		"name": "darkvoid1",
+		"version": 26
+	  },
+	  {
+		"name": "darkvoid2",
+		"version": 26
+	  },
+	  {
+		"name": "dazzlinggleam01",
+		"version": 26
+	  },
+	  {
+		"name": "dazzlinggleam02",
+		"version": 26
+	  },
+	  {
+		"name": "defensecurl",
+		"version": 26
+	  },
+	  {
+		"name": "defog",
+		"version": 26
+	  },
+	  {
+		"name": "deserttigershot1",
+		"version": 26
+	  },
+	  {
+		"name": "deserttigershot2",
+		"version": 26
+	  },
+	  {
+		"name": "desertvortex01",
+		"version": 26
+	  },
+	  {
+		"name": "desertvortex02",
+		"version": 26
+	  },
+	  {
+		"name": "destinybond",
+		"version": 26
+	  },
+	  {
+		"name": "detect",
+		"version": 26
+	  },
+	  {
+		"name": "diamondstorm01",
+		"version": 26
+	  },
+	  {
+		"name": "diamondstorm02",
+		"version": 26
+	  },
+	  {
+		"name": "dig01",
+		"version": 26
+	  },
+	  {
+		"name": "dig02",
+		"version": 26
+	  },
+	  {
+		"name": "disable01",
+		"version": 26
+	  },
+	  {
+		"name": "disarmingvoice01",
+		"version": 26
+	  },
+	  {
+		"name": "disarmingvoice02",
+		"version": 26
+	  },
+	  {
+		"name": "discharge01",
+		"version": 26
+	  },
+	  {
+		"name": "dive01",
+		"version": 26
+	  },
+	  {
+		"name": "dive02",
+		"version": 26
+	  },
+	  {
+		"name": "dizzypunch01",
+		"version": 26
+	  },
+	  {
+		"name": "dizzypunch02",
+		"version": 26
+	  },
+	  {
+		"name": "doomdesire_1",
+		"version": 26
+	  },
+	  {
+		"name": "doomdesire_2",
+		"version": 26
+	  },
+	  {
+		"name": "doubleedge",
+		"version": 26
+	  },
+	  {
+		"name": "doubleedge02",
+		"version": 26
+	  },
+	  {
+		"name": "doublehit1",
+		"version": 26
+	  },
+	  {
+		"name": "doublehit2",
+		"version": 26
+	  },
+	  {
+		"name": "doublekick",
+		"version": 26
+	  },
+	  {
+		"name": "doubleslap01",
+		"version": 26
+	  },
+	  {
+		"name": "doubleslap02",
+		"version": 26
+	  },
+	  {
+		"name": "doubleteam",
+		"version": 26
+	  },
+	  {
+		"name": "dracometeorcrash01",
+		"version": 26
+	  },
+	  {
+		"name": "dracometeorcrash02",
+		"version": 26
+	  },
+	  {
+		"name": "dragonascent01",
+		"version": 26
+	  },
+	  {
+		"name": "dragonascent02",
+		"version": 26
+	  },
+	  {
+		"name": "dragonbreath_01",
+		"version": 26
+	  },
+	  {
+		"name": "dragonbreath_02",
+		"version": 26
+	  },
+	  {
+		"name": "dragonclaw_1",
+		"version": 26
+	  },
+	  {
+		"name": "dragonclaw_2",
+		"version": 26
+	  },
+	  {
+		"name": "dragondance",
+		"version": 26
+	  },
+	  {
+		"name": "dragonpulse_1",
+		"version": 26
+	  },
+	  {
+		"name": "dragonpulse_2",
+		"version": 26
+	  },
+	  {
+		"name": "dragonrage01",
+		"version": 26
+	  },
+	  {
+		"name": "dragonrage02",
+		"version": 26
+	  },
+	  {
+		"name": "dragonrush_1",
+		"version": 26
+	  },
+	  {
+		"name": "dragonrush_2",
+		"version": 26
+	  },
+	  {
+		"name": "dragontail_1",
+		"version": 26
+	  },
+	  {
+		"name": "dragontail_2",
+		"version": 26
+	  },
+	  {
+		"name": "dragontype",
+		"version": 26
+	  },
+	  {
+		"name": "drainingkiss01",
+		"version": 26
+	  },
+	  {
+		"name": "drainingkiss02",
+		"version": 26
+	  },
+	  {
+		"name": "drainpunch_1",
+		"version": 26
+	  },
+	  {
+		"name": "drainpunch_2",
+		"version": 26
+	  },
+	  {
+		"name": "dreameater01",
+		"version": 26
+	  },
+	  {
+		"name": "drillpeck",
+		"version": 26
+	  },
+	  {
+		"name": "drillpeck01",
+		"version": 26
+	  },
+	  {
+		"name": "drillrun01",
+		"version": 26
+	  },
+	  {
+		"name": "drillrun02",
+		"version": 26
+	  },
+	  {
+		"name": "dualchop01",
+		"version": 26
+	  },
+	  {
+		"name": "dualchop02",
+		"version": 26
+	  },
+	  {
+		"name": "dynamicpunch01",
+		"version": 26
+	  },
+	  {
+		"name": "dynamicpunch02",
+		"version": 26
+	  },
+	  {
+		"name": "earth",
+		"version": 26
+	  },
+	  {
+		"name": "earthpower1",
+		"version": 26
+	  },
+	  {
+		"name": "earthpower2",
+		"version": 26
+	  },
+	  {
+		"name": "earthquake01",
+		"version": 26
+	  },
+	  {
+		"name": "earthquake02",
+		"version": 26
+	  },
+	  {
+		"name": "echoedvoice1",
+		"version": 26
+	  },
+	  {
+		"name": "echoedvoice2",
+		"version": 26
+	  },
+	  {
+		"name": "eerieimpulse01",
+		"version": 26
+	  },
+	  {
+		"name": "eerieimpulse02",
+		"version": 26
+	  },
+	  {
+		"name": "eggbomb",
+		"version": 26
+	  },
+	  {
+		"name": "electric",
+		"version": 26
+	  },
+	  {
+		"name": "electricterrain01",
+		"version": 26
+	  },
+	  {
+		"name": "electricterrain02",
+		"version": 26
+	  },
+	  {
+		"name": "electrify01",
+		"version": 26
+	  },
+	  {
+		"name": "electrify02",
+		"version": 26
+	  },
+	  {
+		"name": "electroball01",
+		"version": 26
+	  },
+	  {
+		"name": "electroball02",
+		"version": 26
+	  },
+	  {
+		"name": "electroweb_2",
+		"version": 26
+	  },
+	  {
+		"name": "embargo1_1",
+		"version": 26
+	  },
+	  {
+		"name": "embargo2",
+		"version": 26
+	  },
+	  {
+		"name": "ember01",
+		"version": 26
+	  },
+	  {
+		"name": "ember02",
+		"version": 26
+	  },
+	  {
+		"name": "emptycrack01",
+		"version": 26
+	  },
+	  {
+		"name": "emptycrack02",
+		"version": 26
+	  },
+	  {
+		"name": "encore1",
+		"version": 26
+	  },
+	  {
+		"name": "encore2",
+		"version": 26
+	  },
+	  {
+		"name": "endeavor01",
+		"version": 26
+	  },
+	  {
+		"name": "endeavor02",
+		"version": 26
+	  },
+	  {
+		"name": "energyball1",
+		"version": 26
+	  },
+	  {
+		"name": "energyball2",
+		"version": 26
+	  },
+	  {
+		"name": "entrainment",
+		"version": 26
+	  },
+	  {
+		"name": "eruption1",
+		"version": 26
+	  },
+	  {
+		"name": "eruption2",
+		"version": 26
+	  },
+	  {
+		"name": "evilinvasion01",
+		"version": 26
+	  },
+	  {
+		"name": "evilinvasion02",
+		"version": 26
+	  },
+	  {
+		"name": "explosion01",
+		"version": 26
+	  },
+	  {
+		"name": "explosion02",
+		"version": 26
+	  },
+	  {
+		"name": "extrasensory_1",
+		"version": 26
+	  },
+	  {
+		"name": "extrasensory_2",
+		"version": 26
+	  },
+	  {
+		"name": "extremespeed01",
+		"version": 26
+	  },
+	  {
+		"name": "extremespeed02",
+		"version": 26
+	  },
+	  {
+		"name": "facade01",
+		"version": 26
+	  },
+	  {
+		"name": "facade02",
+		"version": 26
+	  },
+	  {
+		"name": "faintattack01",
+		"version": 26
+	  },
+	  {
+		"name": "faintattack02",
+		"version": 26
+	  },
+	  {
+		"name": "fairy",
+		"version": 26
+	  },
+	  {
+		"name": "fairylock01",
+		"version": 26
+	  },
+	  {
+		"name": "fairylock02",
+		"version": 26
+	  },
+	  {
+		"name": "fairypower01",
+		"version": 26
+	  },
+	  {
+		"name": "fairypower02",
+		"version": 26
+	  },
+	  {
+		"name": "fairywind01",
+		"version": 26
+	  },
+	  {
+		"name": "fairywind02",
+		"version": 26
+	  },
+	  {
+		"name": "fakeout01",
+		"version": 26
+	  },
+	  {
+		"name": "fakeout02",
+		"version": 26
+	  },
+	  {
+		"name": "faketears1",
+		"version": 26
+	  },
+	  {
+		"name": "falseswipe01",
+		"version": 26
+	  },
+	  {
+		"name": "falseswipe02",
+		"version": 26
+	  },
+	  {
+		"name": "feint1",
+		"version": 26
+	  },
+	  {
+		"name": "feint2",
+		"version": 26
+	  },
+	  {
+		"name": "fellstinger_2",
+		"version": 26
+	  },
+	  {
+		"name": "fierydance01",
+		"version": 26
+	  },
+	  {
+		"name": "fierydance02",
+		"version": 26
+	  },
+	  {
+		"name": "finalgambit_1",
+		"version": 26
+	  },
+	  {
+		"name": "finalgambit_2",
+		"version": 26
+	  },
+	  {
+		"name": "finalgambit_3",
+		"version": 26
+	  },
+	  {
+		"name": "fireblast01",
+		"version": 26
+	  },
+	  {
+		"name": "fireblast02",
+		"version": 26
+	  },
+	  {
+		"name": "fireblast03",
+		"version": 26
+	  },
+	  {
+		"name": "fireblast04",
+		"version": 26
+	  },
+	  {
+		"name": "firefang1",
+		"version": 26
+	  },
+	  {
+		"name": "firefang2",
+		"version": 26
+	  },
+	  {
+		"name": "firepunch_01",
+		"version": 26
+	  },
+	  {
+		"name": "firepunch_04",
+		"version": 26
+	  },
+	  {
+		"name": "firespin01",
+		"version": 26
+	  },
+	  {
+		"name": "firespin02",
+		"version": 26
+	  },
+	  {
+		"name": "fissure",
+		"version": 26
+	  },
+	  {
+		"name": "fissure01",
+		"version": 26
+	  },
+	  {
+		"name": "flail01",
+		"version": 26
+	  },
+	  {
+		"name": "flail02",
+		"version": 26
+	  },
+	  {
+		"name": "flameburst1",
+		"version": 26
+	  },
+	  {
+		"name": "flameburst2",
+		"version": 26
+	  },
+	  {
+		"name": "flameburst3",
+		"version": 26
+	  },
+	  {
+		"name": "flamecharge01",
+		"version": 26
+	  },
+	  {
+		"name": "flamecharge02",
+		"version": 26
+	  },
+	  {
+		"name": "flamecharge03",
+		"version": 26
+	  },
+	  {
+		"name": "flamethrower_01",
+		"version": 26
+	  },
+	  {
+		"name": "flamethrower_02",
+		"version": 26
+	  },
+	  {
+		"name": "flamethrower_03",
+		"version": 26
+	  },
+	  {
+		"name": "flamewheel01",
+		"version": 26
+	  },
+	  {
+		"name": "flamewheel02",
+		"version": 26
+	  },
+	  {
+		"name": "flareblitz1",
+		"version": 26
+	  },
+	  {
+		"name": "flareblitz2",
+		"version": 26
+	  },
+	  {
+		"name": "flash",
+		"version": 26
+	  },
+	  {
+		"name": "flashcannon1",
+		"version": 26
+	  },
+	  {
+		"name": "flashcannon2",
+		"version": 26
+	  },
+	  {
+		"name": "flatter01",
+		"version": 26
+	  },
+	  {
+		"name": "flatter02",
+		"version": 26
+	  },
+	  {
+		"name": "flowershield",
+		"version": 26
+	  },
+	  {
+		"name": "fly",
+		"version": 26
+	  },
+	  {
+		"name": "flyawy",
+		"version": 26
+	  },
+	  {
+		"name": "flyescape01",
+		"version": 26
+	  },
+	  {
+		"name": "flyescape02",
+		"version": 26
+	  },
+	  {
+		"name": "flyingdragon01",
+		"version": 26
+	  },
+	  {
+		"name": "flyingdragon02",
+		"version": 26
+	  },
+	  {
+		"name": "flyingpress_1",
+		"version": 26
+	  },
+	  {
+		"name": "flyingpress_2",
+		"version": 26
+	  },
+	  {
+		"name": "fly_1",
+		"version": 26
+	  },
+	  {
+		"name": "fly_2",
+		"version": 26
+	  },
+	  {
+		"name": "focusblast1",
+		"version": 26
+	  },
+	  {
+		"name": "focusblast2",
+		"version": 26
+	  },
+	  {
+		"name": "focusenergy",
+		"version": 26
+	  },
+	  {
+		"name": "focuspunch01",
+		"version": 26
+	  },
+	  {
+		"name": "focuspunch02",
+		"version": 26
+	  },
+	  {
+		"name": "forcepalm_1",
+		"version": 26
+	  },
+	  {
+		"name": "forcepalm_2",
+		"version": 26
+	  },
+	  {
+		"name": "foresight01",
+		"version": 26
+	  },
+	  {
+		"name": "foresight02",
+		"version": 26
+	  },
+	  {
+		"name": "forestcurse01",
+		"version": 26
+	  },
+	  {
+		"name": "forestcurse02",
+		"version": 26
+	  },
+	  {
+		"name": "foulplay01",
+		"version": 26
+	  },
+	  {
+		"name": "foulplay02",
+		"version": 26
+	  },
+	  {
+		"name": "foulplay03",
+		"version": 26
+	  },
+	  {
+		"name": "freezedry01",
+		"version": 26
+	  },
+	  {
+		"name": "freezedry02",
+		"version": 26
+	  },
+	  {
+		"name": "freezeshock01",
+		"version": 26
+	  },
+	  {
+		"name": "freezeshock02",
+		"version": 26
+	  },
+	  {
+		"name": "frenzyplant_1",
+		"version": 26
+	  },
+	  {
+		"name": "frenzyplant_2",
+		"version": 26
+	  },
+	  {
+		"name": "frostbreath_1",
+		"version": 26
+	  },
+	  {
+		"name": "frostbreath_2",
+		"version": 26
+	  },
+	  {
+		"name": "frozensun01",
+		"version": 26
+	  },
+	  {
+		"name": "furyattack01",
+		"version": 26
+	  },
+	  {
+		"name": "furyattack02",
+		"version": 26
+	  },
+	  {
+		"name": "furyattack03",
+		"version": 26
+	  },
+	  {
+		"name": "furycutter01",
+		"version": 26
+	  },
+	  {
+		"name": "furycutter02",
+		"version": 26
+	  },
+	  {
+		"name": "furyswipes",
+		"version": 26
+	  },
+	  {
+		"name": "fusionbolt01",
+		"version": 26
+	  },
+	  {
+		"name": "fusionbolt02",
+		"version": 26
+	  },
+	  {
+		"name": "fusionflare01",
+		"version": 26
+	  },
+	  {
+		"name": "fusionflare02",
+		"version": 26
+	  },
+	  {
+		"name": "gastroacid1",
+		"version": 26
+	  },
+	  {
+		"name": "gastroacid2",
+		"version": 26
+	  },
+	  {
+		"name": "geargrind01",
+		"version": 26
+	  },
+	  {
+		"name": "geargrind02",
+		"version": 26
+	  },
+	  {
+		"name": "general",
+		"version": 26
+	  },
+	  {
+		"name": "geomancy01",
+		"version": 26
+	  },
+	  {
+		"name": "geomancy02",
+		"version": 26
+	  },
+	  {
+		"name": "ghost",
+		"version": 26
+	  },
+	  {
+		"name": "gigadrain01",
+		"version": 26
+	  },
+	  {
+		"name": "gigadrain02",
+		"version": 26
+	  },
+	  {
+		"name": "gigaimpact1",
+		"version": 26
+	  },
+	  {
+		"name": "gigaimpact2",
+		"version": 26
+	  },
+	  {
+		"name": "gigavolthavoc_1",
+		"version": 26
+	  },
+	  {
+		"name": "gigavolthavoc_2",
+		"version": 26
+	  },
+	  {
+		"name": "glaciate01",
+		"version": 26
+	  },
+	  {
+		"name": "glare",
+		"version": 26
+	  },
+	  {
+		"name": "grapple",
+		"version": 26
+	  },
+	  {
+		"name": "grass",
+		"version": 26
+	  },
+	  {
+		"name": "grassknot",
+		"version": 26
+	  },
+	  {
+		"name": "grasswhistle1",
+		"version": 26
+	  },
+	  {
+		"name": "grasswhistle2",
+		"version": 26
+	  },
+	  {
+		"name": "grassyterrain",
+		"version": 26
+	  },
+	  {
+		"name": "gravity",
+		"version": 26
+	  },
+	  {
+		"name": "gravity1",
+		"version": 26
+	  },
+	  {
+		"name": "growl",
+		"version": 26
+	  },
+	  {
+		"name": "growth",
+		"version": 26
+	  },
+	  {
+		"name": "guardsplit_1",
+		"version": 26
+	  },
+	  {
+		"name": "guardsplit_2",
+		"version": 26
+	  },
+	  {
+		"name": "guardswap1",
+		"version": 26
+	  },
+	  {
+		"name": "guardswap2",
+		"version": 26
+	  },
+	  {
+		"name": "guillotine",
+		"version": 26
+	  },
+	  {
+		"name": "guillotine01",
+		"version": 26
+	  },
+	  {
+		"name": "gunkshot1",
+		"version": 26
+	  },
+	  {
+		"name": "gunkshot2",
+		"version": 26
+	  },
+	  {
+		"name": "gust01",
+		"version": 26
+	  },
+	  {
+		"name": "gust02",
+		"version": 26
+	  },
+	  {
+		"name": "gust03",
+		"version": 26
+	  },
+	  {
+		"name": "gyroball1",
+		"version": 26
+	  },
+	  {
+		"name": "gyroball2",
+		"version": 26
+	  },
+	  {
+		"name": "hail01",
+		"version": 26
+	  },
+	  {
+		"name": "hail02",
+		"version": 26
+	  },
+	  {
+		"name": "hail03",
+		"version": 26
+	  },
+	  {
+		"name": "hammerarm1",
+		"version": 26
+	  },
+	  {
+		"name": "hammerarm2",
+		"version": 26
+	  },
+	  {
+		"name": "harden",
+		"version": 26
+	  },
+	  {
+		"name": "haze",
+		"version": 26
+	  },
+	  {
+		"name": "headbutt",
+		"version": 26
+	  },
+	  {
+		"name": "headbutt01",
+		"version": 26
+	  },
+	  {
+		"name": "headcharge01",
+		"version": 26
+	  },
+	  {
+		"name": "headcharge02",
+		"version": 26
+	  },
+	  {
+		"name": "headsmash1",
+		"version": 26
+	  },
+	  {
+		"name": "headsmash2",
+		"version": 26
+	  },
+	  {
+		"name": "healbell",
+		"version": 26
+	  },
+	  {
+		"name": "healblock1",
+		"version": 26
+	  },
+	  {
+		"name": "healblock2",
+		"version": 26
+	  },
+	  {
+		"name": "healingwish",
+		"version": 26
+	  },
+	  {
+		"name": "healpulse_1",
+		"version": 26
+	  },
+	  {
+		"name": "healpulse_2",
+		"version": 26
+	  },
+	  {
+		"name": "heartstamp01",
+		"version": 26
+	  },
+	  {
+		"name": "heartstamp02",
+		"version": 26
+	  },
+	  {
+		"name": "heatcrash01 1",
+		"version": 26
+	  },
+	  {
+		"name": "heatcrash01",
+		"version": 26
+	  },
+	  {
+		"name": "heatcrash02",
+		"version": 26
+	  },
+	  {
+		"name": "heatwave01",
+		"version": 26
+	  },
+	  {
+		"name": "heatwave02",
+		"version": 26
+	  },
+	  {
+		"name": "heavyslam01",
+		"version": 26
+	  },
+	  {
+		"name": "heavyslam02",
+		"version": 26
+	  },
+	  {
+		"name": "heavyslam03",
+		"version": 26
+	  },
+	  {
+		"name": "hex_1",
+		"version": 26
+	  },
+	  {
+		"name": "hex_2",
+		"version": 26
+	  },
+	  {
+		"name": "highjumpkick_1",
+		"version": 26
+	  },
+	  {
+		"name": "highjumpkick_2",
+		"version": 26
+	  },
+	  {
+		"name": "holdback_1",
+		"version": 26
+	  },
+	  {
+		"name": "holdback_2",
+		"version": 26
+	  },
+	  {
+		"name": "honeclaws",
+		"version": 26
+	  },
+	  {
+		"name": "hornattack",
+		"version": 26
+	  },
+	  {
+		"name": "hornattack02",
+		"version": 26
+	  },
+	  {
+		"name": "horndrill",
+		"version": 26
+	  },
+	  {
+		"name": "horndrill01",
+		"version": 26
+	  },
+	  {
+		"name": "hornleech01",
+		"version": 26
+	  },
+	  {
+		"name": "hornleech02",
+		"version": 26
+	  },
+	  {
+		"name": "howl",
+		"version": 26
+	  },
+	  {
+		"name": "hurricane01",
+		"version": 26
+	  },
+	  {
+		"name": "hurricane02",
+		"version": 26
+	  },
+	  {
+		"name": "hydrocannon1",
+		"version": 26
+	  },
+	  {
+		"name": "hydrocannon2",
+		"version": 26
+	  },
+	  {
+		"name": "hydropump01",
+		"version": 26
+	  },
+	  {
+		"name": "hydropump02",
+		"version": 26
+	  },
+	  {
+		"name": "hyperbeam01",
+		"version": 26
+	  },
+	  {
+		"name": "hyperbeam02",
+		"version": 26
+	  },
+	  {
+		"name": "hyperfang01",
+		"version": 26
+	  },
+	  {
+		"name": "hyperfang02",
+		"version": 26
+	  },
+	  {
+		"name": "hyperspaceclaw_01",
+		"version": 26
+	  },
+	  {
+		"name": "hyperspaceclaw_02",
+		"version": 26
+	  },
+	  {
+		"name": "hyperspacefury01",
+		"version": 26
+	  },
+	  {
+		"name": "hyperspacefury02",
+		"version": 26
+	  },
+	  {
+		"name": "hyperspacehole01",
+		"version": 26
+	  },
+	  {
+		"name": "hyperspacehole02",
+		"version": 26
+	  },
+	  {
+		"name": "hypervoice1",
+		"version": 26
+	  },
+	  {
+		"name": "hypervoice2",
+		"version": 26
+	  },
+	  {
+		"name": "hypnosis01",
+		"version": 26
+	  },
+	  {
+		"name": "hypnosis02",
+		"version": 26
+	  },
+	  {
+		"name": "iceball1",
+		"version": 26
+	  },
+	  {
+		"name": "iceball2",
+		"version": 26
+	  },
+	  {
+		"name": "iceball3",
+		"version": 26
+	  },
+	  {
+		"name": "icebeam01",
+		"version": 26
+	  },
+	  {
+		"name": "icebeam02",
+		"version": 26
+	  },
+	  {
+		"name": "iceburn01",
+		"version": 26
+	  },
+	  {
+		"name": "iceburn02",
+		"version": 26
+	  },
+	  {
+		"name": "icefang1",
+		"version": 26
+	  },
+	  {
+		"name": "icefang2",
+		"version": 26
+	  },
+	  {
+		"name": "icepunch01",
+		"version": 26
+	  },
+	  {
+		"name": "icepunch02",
+		"version": 26
+	  },
+	  {
+		"name": "iceshard1",
+		"version": 26
+	  },
+	  {
+		"name": "iceshard2",
+		"version": 26
+	  },
+	  {
+		"name": "icetype",
+		"version": 26
+	  },
+	  {
+		"name": "iciclecrash01",
+		"version": 26
+	  },
+	  {
+		"name": "iciclecrash02",
+		"version": 26
+	  },
+	  {
+		"name": "iciclespear_1",
+		"version": 26
+	  },
+	  {
+		"name": "iciclespear_2",
+		"version": 26
+	  },
+	  {
+		"name": "icywind01",
+		"version": 26
+	  },
+	  {
+		"name": "icywind02",
+		"version": 26
+	  },
+	  {
+		"name": "imprison",
+		"version": 26
+	  },
+	  {
+		"name": "incinerate_1",
+		"version": 26
+	  },
+	  {
+		"name": "incinerate_2",
+		"version": 26
+	  },
+	  {
+		"name": "incinerate_3",
+		"version": 26
+	  },
+	  {
+		"name": "infernaldragon01",
+		"version": 26
+	  },
+	  {
+		"name": "infernaldragon02",
+		"version": 26
+	  },
+	  {
+		"name": "infernokick_1",
+		"version": 26
+	  },
+	  {
+		"name": "infernokick_2",
+		"version": 26
+	  },
+	  {
+		"name": "inferno_1",
+		"version": 26
+	  },
+	  {
+		"name": "inferno_2",
+		"version": 26
+	  },
+	  {
+		"name": "infestation_1",
+		"version": 26
+	  },
+	  {
+		"name": "infestation_2",
+		"version": 26
+	  },
+	  {
+		"name": "inflammation",
+		"version": 26
+	  },
+	  {
+		"name": "ingrain",
+		"version": 26
+	  },
+	  {
+		"name": "insect",
+		"version": 26
+	  },
+	  {
+		"name": "iondeluge_1",
+		"version": 26
+	  },
+	  {
+		"name": "iondeluge_2",
+		"version": 26
+	  },
+	  {
+		"name": "irondefense",
+		"version": 26
+	  },
+	  {
+		"name": "ironhead1",
+		"version": 26
+	  },
+	  {
+		"name": "ironhead2",
+		"version": 26
+	  },
+	  {
+		"name": "irontail01",
+		"version": 26
+	  },
+	  {
+		"name": "irontail02",
+		"version": 26
+	  },
+	  {
+		"name": "judgment1",
+		"version": 26
+	  },
+	  {
+		"name": "judgment2",
+		"version": 26
+	  },
+	  {
+		"name": "jumpkick",
+		"version": 26
+	  },
+	  {
+		"name": "jumpkick01",
+		"version": 26
+	  },
+	  {
+		"name": "karatechop",
+		"version": 26
+	  },
+	  {
+		"name": "kinesis",
+		"version": 26
+	  },
+	  {
+		"name": "kingshield01",
+		"version": 26
+	  },
+	  {
+		"name": "knockoff01",
+		"version": 26
+	  },
+	  {
+		"name": "knockoff02",
+		"version": 26
+	  },
+	  {
+		"name": "landswrath_1",
+		"version": 26
+	  },
+	  {
+		"name": "landswrath_2",
+		"version": 26
+	  },
+	  {
+		"name": "lastresort1",
+		"version": 26
+	  },
+	  {
+		"name": "lastresort2",
+		"version": 26
+	  },
+	  {
+		"name": "lavaplume1",
+		"version": 26
+	  },
+	  {
+		"name": "lavaplume2",
+		"version": 26
+	  },
+	  {
+		"name": "leafblade",
+		"version": 26
+	  },
+	  {
+		"name": "leafblade2",
+		"version": 26
+	  },
+	  {
+		"name": "leafstorm01",
+		"version": 26
+	  },
+	  {
+		"name": "leafstorm02",
+		"version": 26
+	  },
+	  {
+		"name": "leaftornado01",
+		"version": 26
+	  },
+	  {
+		"name": "leaftornado02",
+		"version": 26
+	  },
+	  {
+		"name": "leechlife01",
+		"version": 26
+	  },
+	  {
+		"name": "leechlife02",
+		"version": 26
+	  },
+	  {
+		"name": "leechseed01",
+		"version": 26
+	  },
+	  {
+		"name": "leechseed02",
+		"version": 26
+	  },
+	  {
+		"name": "leer",
+		"version": 26
+	  },
+	  {
+		"name": "lick1",
+		"version": 26
+	  },
+	  {
+		"name": "lick2",
+		"version": 26
+	  },
+	  {
+		"name": "lightningimpacttornado01",
+		"version": 26
+	  },
+	  {
+		"name": "lightningimpacttornado02",
+		"version": 26
+	  },
+	  {
+		"name": "lightofruin_1",
+		"version": 26
+	  },
+	  {
+		"name": "lightofruin_2",
+		"version": 26
+	  },
+	  {
+		"name": "lightscreen",
+		"version": 26
+	  },
+	  {
+		"name": "lockon",
+		"version": 26
+	  },
+	  {
+		"name": "lovelykiss01",
+		"version": 26
+	  },
+	  {
+		"name": "lovelykiss02",
+		"version": 26
+	  },
+	  {
+		"name": "lowkick",
+		"version": 26
+	  },
+	  {
+		"name": "lowsweep01",
+		"version": 26
+	  },
+	  {
+		"name": "lowsweep02",
+		"version": 26
+	  },
+	  {
+		"name": "luckychant",
+		"version": 26
+	  },
+	  {
+		"name": "lusterpurge1",
+		"version": 26
+	  },
+	  {
+		"name": "lusterpurge2",
+		"version": 26
+	  },
+	  {
+		"name": "machpunch01",
+		"version": 26
+	  },
+	  {
+		"name": "machpunch02",
+		"version": 26
+	  },
+	  {
+		"name": "magicalleaf_1",
+		"version": 26
+	  },
+	  {
+		"name": "magicalleaf_2",
+		"version": 26
+	  },
+	  {
+		"name": "magiccoat",
+		"version": 26
+	  },
+	  {
+		"name": "magicroom",
+		"version": 26
+	  },
+	  {
+		"name": "magmastorm1",
+		"version": 26
+	  },
+	  {
+		"name": "magmastorm2",
+		"version": 26
+	  },
+	  {
+		"name": "magnetbomb1",
+		"version": 26
+	  },
+	  {
+		"name": "magnetbomb2",
+		"version": 26
+	  },
+	  {
+		"name": "magnetrise1",
+		"version": 26
+	  },
+	  {
+		"name": "manjidanichop_1",
+		"version": 26
+	  },
+	  {
+		"name": "manjidanichop_2",
+		"version": 26
+	  },
+	  {
+		"name": "matblock_1",
+		"version": 26
+	  },
+	  {
+		"name": "meditate",
+		"version": 26
+	  },
+	  {
+		"name": "megadrain_01",
+		"version": 26
+	  },
+	  {
+		"name": "megadrain_02",
+		"version": 26
+	  },
+	  {
+		"name": "megadrain_03",
+		"version": 26
+	  },
+	  {
+		"name": "megahorn01",
+		"version": 26
+	  },
+	  {
+		"name": "megahorn02",
+		"version": 26
+	  },
+	  {
+		"name": "megakick",
+		"version": 26
+	  },
+	  {
+		"name": "megakick01",
+		"version": 26
+	  },
+	  {
+		"name": "megapunch",
+		"version": 26
+	  },
+	  {
+		"name": "megapunch03",
+		"version": 26
+	  },
+	  {
+		"name": "memento01",
+		"version": 26
+	  },
+	  {
+		"name": "memento02",
+		"version": 26
+	  },
+	  {
+		"name": "metalbeam01",
+		"version": 26
+	  },
+	  {
+		"name": "metalbeam02",
+		"version": 26
+	  },
+	  {
+		"name": "metalburst1",
+		"version": 26
+	  },
+	  {
+		"name": "metalburst2",
+		"version": 26
+	  },
+	  {
+		"name": "metalclaw01",
+		"version": 26
+	  },
+	  {
+		"name": "metalclaw02",
+		"version": 26
+	  },
+	  {
+		"name": "metalpunch01",
+		"version": 26
+	  },
+	  {
+		"name": "metalpunch02",
+		"version": 26
+	  },
+	  {
+		"name": "metalsound1",
+		"version": 26
+	  },
+	  {
+		"name": "metalsound3",
+		"version": 26
+	  },
+	  {
+		"name": "meteoriterock01",
+		"version": 26
+	  },
+	  {
+		"name": "meteoriterock02",
+		"version": 26
+	  },
+	  {
+		"name": "meteormash1",
+		"version": 26
+	  },
+	  {
+		"name": "meteormash2",
+		"version": 26
+	  },
+	  {
+		"name": "metronome",
+		"version": 26
+	  },
+	  {
+		"name": "milkdrink",
+		"version": 26
+	  },
+	  {
+		"name": "mimic",
+		"version": 26
+	  },
+	  {
+		"name": "mindreader1",
+		"version": 26
+	  },
+	  {
+		"name": "mindreader2",
+		"version": 26
+	  },
+	  {
+		"name": "minimize",
+		"version": 26
+	  },
+	  {
+		"name": "miracleeye1",
+		"version": 26
+	  },
+	  {
+		"name": "miracleeye2",
+		"version": 26
+	  },
+	  {
+		"name": "mirrorcoat",
+		"version": 26
+	  },
+	  {
+		"name": "mirrorshot1",
+		"version": 26
+	  },
+	  {
+		"name": "mirrorshot2",
+		"version": 26
+	  },
+	  {
+		"name": "mist",
+		"version": 26
+	  },
+	  {
+		"name": "mistball1",
+		"version": 26
+	  },
+	  {
+		"name": "mistball2",
+		"version": 26
+	  },
+	  {
+		"name": "mistyterrain",
+		"version": 26
+	  },
+	  {
+		"name": "moonblast01",
+		"version": 26
+	  },
+	  {
+		"name": "moonblast02",
+		"version": 26
+	  },
+	  {
+		"name": "moongeistbeam_01",
+		"version": 26
+	  },
+	  {
+		"name": "moongeistbeam_02",
+		"version": 26
+	  },
+	  {
+		"name": "moonlight",
+		"version": 26
+	  },
+	  {
+		"name": "moonstar01",
+		"version": 26
+	  },
+	  {
+		"name": "moonstar02",
+		"version": 26
+	  },
+	  {
+		"name": "morningsun",
+		"version": 26
+	  },
+	  {
+		"name": "mudbomb_1",
+		"version": 26
+	  },
+	  {
+		"name": "mudbomb_2",
+		"version": 26
+	  },
+	  {
+		"name": "muddywater_1",
+		"version": 26
+	  },
+	  {
+		"name": "muddywater_2",
+		"version": 26
+	  },
+	  {
+		"name": "mudshot_1",
+		"version": 26
+	  },
+	  {
+		"name": "mudshot_2",
+		"version": 26
+	  },
+	  {
+		"name": "mudslap01",
+		"version": 26
+	  },
+	  {
+		"name": "mudslap02",
+		"version": 26
+	  },
+	  {
+		"name": "mudsport1",
+		"version": 26
+	  },
+	  {
+		"name": "mudsport2",
+		"version": 26
+	  },
+	  {
+		"name": "mysticalfire01",
+		"version": 26
+	  },
+	  {
+		"name": "mysticalfire02",
+		"version": 26
+	  },
+	  {
+		"name": "nastyplot1",
+		"version": 26
+	  },
+	  {
+		"name": "needlearm1",
+		"version": 26
+	  },
+	  {
+		"name": "needlearm2",
+		"version": 26
+	  },
+	  {
+		"name": "nightdaze01",
+		"version": 26
+	  },
+	  {
+		"name": "nightdaze02",
+		"version": 26
+	  },
+	  {
+		"name": "nightmare1",
+		"version": 26
+	  },
+	  {
+		"name": "nightmare2",
+		"version": 26
+	  },
+	  {
+		"name": "nightshade1",
+		"version": 26
+	  },
+	  {
+		"name": "nightshade2",
+		"version": 26
+	  },
+	  {
+		"name": "nightslash_1",
+		"version": 26
+	  },
+	  {
+		"name": "nightslash_2",
+		"version": 26
+	  },
+	  {
+		"name": "nobleroar_1",
+		"version": 26
+	  },
+	  {
+		"name": "nuzzle_1",
+		"version": 26
+	  },
+	  {
+		"name": "nuzzle_2",
+		"version": 26
+	  },
+	  {
+		"name": "oblivionwing_1",
+		"version": 26
+	  },
+	  {
+		"name": "oblivionwing_2",
+		"version": 26
+	  },
+	  {
+		"name": "octazooka01",
+		"version": 26
+	  },
+	  {
+		"name": "octazooka02",
+		"version": 26
+	  },
+	  {
+		"name": "odorsleuth1",
+		"version": 26
+	  },
+	  {
+		"name": "odorsleuth2",
+		"version": 26
+	  },
+	  {
+		"name": "ominouswind1",
+		"version": 26
+	  },
+	  {
+		"name": "ominouswind2",
+		"version": 26
+	  },
+	  {
+		"name": "originpulse_1",
+		"version": 26
+	  },
+	  {
+		"name": "originpulse_2",
+		"version": 26
+	  },
+	  {
+		"name": "outrage_1",
+		"version": 26
+	  },
+	  {
+		"name": "outrage_2",
+		"version": 26
+	  },
+	  {
+		"name": "overheat",
+		"version": 26
+	  },
+	  {
+		"name": "painsplit_01",
+		"version": 26
+	  },
+	  {
+		"name": "painsplit_02",
+		"version": 26
+	  },
+	  {
+		"name": "paraboliccharge01",
+		"version": 26
+	  },
+	  {
+		"name": "paraboliccharge02",
+		"version": 26
+	  },
+	  {
+		"name": "payback1",
+		"version": 26
+	  },
+	  {
+		"name": "payback2",
+		"version": 26
+	  },
+	  {
+		"name": "payday1",
+		"version": 26
+	  },
+	  {
+		"name": "payday2",
+		"version": 26
+	  },
+	  {
+		"name": "payday3",
+		"version": 26
+	  },
+	  {
+		"name": "peck01",
+		"version": 26
+	  },
+	  {
+		"name": "peck02",
+		"version": 26
+	  },
+	  {
+		"name": "perishsong01",
+		"version": 26
+	  },
+	  {
+		"name": "perishsong02",
+		"version": 26
+	  },
+	  {
+		"name": "perishsong03",
+		"version": 26
+	  },
+	  {
+		"name": "petalblizzard01",
+		"version": 26
+	  },
+	  {
+		"name": "petalblizzard02",
+		"version": 26
+	  },
+	  {
+		"name": "petaldance01",
+		"version": 26
+	  },
+	  {
+		"name": "petaldance03",
+		"version": 26
+	  },
+	  {
+		"name": "phantomforce_1",
+		"version": 26
+	  },
+	  {
+		"name": "phantomforce_2",
+		"version": 26
+	  },
+	  {
+		"name": "pinmissile",
+		"version": 26
+	  },
+	  {
+		"name": "playnice01",
+		"version": 26
+	  },
+	  {
+		"name": "playnice02",
+		"version": 26
+	  },
+	  {
+		"name": "playrough01",
+		"version": 26
+	  },
+	  {
+		"name": "playrough02",
+		"version": 26
+	  },
+	  {
+		"name": "pluck1",
+		"version": 26
+	  },
+	  {
+		"name": "pluck2",
+		"version": 26
+	  },
+	  {
+		"name": "poison",
+		"version": 26
+	  },
+	  {
+		"name": "poisonfang1",
+		"version": 26
+	  },
+	  {
+		"name": "poisonfang2",
+		"version": 26
+	  },
+	  {
+		"name": "poisongas01",
+		"version": 26
+	  },
+	  {
+		"name": "poisongas02",
+		"version": 26
+	  },
+	  {
+		"name": "poisonjab_1",
+		"version": 26
+	  },
+	  {
+		"name": "poisonjab_2",
+		"version": 26
+	  },
+	  {
+		"name": "poisonpowder01",
+		"version": 26
+	  },
+	  {
+		"name": "poisonpowder02",
+		"version": 26
+	  },
+	  {
+		"name": "poisonsting01",
+		"version": 26
+	  },
+	  {
+		"name": "poisonsting02",
+		"version": 26
+	  },
+	  {
+		"name": "poisontail_1",
+		"version": 26
+	  },
+	  {
+		"name": "poisontail_2",
+		"version": 26
+	  },
+	  {
+		"name": "pound",
+		"version": 26
+	  },
+	  {
+		"name": "powder01",
+		"version": 26
+	  },
+	  {
+		"name": "powder02",
+		"version": 26
+	  },
+	  {
+		"name": "powdersnow1",
+		"version": 26
+	  },
+	  {
+		"name": "powdersnow2",
+		"version": 26
+	  },
+	  {
+		"name": "powergem_1",
+		"version": 26
+	  },
+	  {
+		"name": "powergem_2",
+		"version": 26
+	  },
+	  {
+		"name": "powerofdarkness01",
+		"version": 26
+	  },
+	  {
+		"name": "powerofdarkness02",
+		"version": 26
+	  },
+	  {
+		"name": "powersplit_1",
+		"version": 26
+	  },
+	  {
+		"name": "powersplit_2",
+		"version": 26
+	  },
+	  {
+		"name": "powerswap1",
+		"version": 26
+	  },
+	  {
+		"name": "powerswap2",
+		"version": 26
+	  },
+	  {
+		"name": "powertrick1",
+		"version": 26
+	  },
+	  {
+		"name": "poweruppunch_1",
+		"version": 26
+	  },
+	  {
+		"name": "poweruppunch_2",
+		"version": 26
+	  },
+	  {
+		"name": "powerwhip1",
+		"version": 26
+	  },
+	  {
+		"name": "precipiceblades01",
+		"version": 26
+	  },
+	  {
+		"name": "precipiceblades02",
+		"version": 26
+	  },
+	  {
+		"name": "protect",
+		"version": 26
+	  },
+	  {
+		"name": "psybeam",
+		"version": 26
+	  },
+	  {
+		"name": "psychictype",
+		"version": 26
+	  },
+	  {
+		"name": "psychic_1",
+		"version": 26
+	  },
+	  {
+		"name": "psychic_2",
+		"version": 26
+	  },
+	  {
+		"name": "psychoboost_1",
+		"version": 26
+	  },
+	  {
+		"name": "psychoboost_2",
+		"version": 26
+	  },
+	  {
+		"name": "psychocut_1",
+		"version": 26
+	  },
+	  {
+		"name": "psychocut_2",
+		"version": 26
+	  },
+	  {
+		"name": "psychoshift1",
+		"version": 26
+	  },
+	  {
+		"name": "psychoshift2",
+		"version": 26
+	  },
+	  {
+		"name": "psychup",
+		"version": 26
+	  },
+	  {
+		"name": "psyshock_1",
+		"version": 26
+	  },
+	  {
+		"name": "psyshock_2",
+		"version": 26
+	  },
+	  {
+		"name": "psystrike01",
+		"version": 26
+	  },
+	  {
+		"name": "psystrike02",
+		"version": 26
+	  },
+	  {
+		"name": "psywave_1",
+		"version": 26
+	  },
+	  {
+		"name": "psywave_2",
+		"version": 26
+	  },
+	  {
+		"name": "punishment1",
+		"version": 26
+	  },
+	  {
+		"name": "punishment2",
+		"version": 26
+	  },
+	  {
+		"name": "pursuit",
+		"version": 26
+	  },
+	  {
+		"name": "quash_1",
+		"version": 26
+	  },
+	  {
+		"name": "quash_2",
+		"version": 26
+	  },
+	  {
+		"name": "quickattack",
+		"version": 26
+	  },
+	  {
+		"name": "quickguard_1",
+		"version": 26
+	  },
+	  {
+		"name": "quiverdance",
+		"version": 26
+	  },
+	  {
+		"name": "rage",
+		"version": 26
+	  },
+	  {
+		"name": "ragehorn_1",
+		"version": 26
+	  },
+	  {
+		"name": "ragehorn_3",
+		"version": 26
+	  },
+	  {
+		"name": "raindance_01",
+		"version": 26
+	  },
+	  {
+		"name": "raindance_02",
+		"version": 26
+	  },
+	  {
+		"name": "raindance_03",
+		"version": 26
+	  },
+	  {
+		"name": "rapidgarrotte01",
+		"version": 26
+	  },
+	  {
+		"name": "rapidgarrotte02",
+		"version": 26
+	  },
+	  {
+		"name": "rapidspin01",
+		"version": 26
+	  },
+	  {
+		"name": "rapidspin02",
+		"version": 26
+	  },
+	  {
+		"name": "razorleaf01",
+		"version": 26
+	  },
+	  {
+		"name": "razorleaf02",
+		"version": 26
+	  },
+	  {
+		"name": "razorshell01",
+		"version": 26
+	  },
+	  {
+		"name": "razorshell02",
+		"version": 26
+	  },
+	  {
+		"name": "razorwind1",
+		"version": 26
+	  },
+	  {
+		"name": "razorwind2",
+		"version": 26
+	  },
+	  {
+		"name": "recover",
+		"version": 26
+	  },
+	  {
+		"name": "reflect",
+		"version": 26
+	  },
+	  {
+		"name": "reflecttype_1",
+		"version": 26
+	  },
+	  {
+		"name": "reflecttype_2",
+		"version": 26
+	  },
+	  {
+		"name": "refresh",
+		"version": 26
+	  },
+	  {
+		"name": "relicsong01",
+		"version": 26
+	  },
+	  {
+		"name": "relicsong02",
+		"version": 26
+	  },
+	  {
+		"name": "rest01",
+		"version": 26
+	  },
+	  {
+		"name": "rest02",
+		"version": 26
+	  },
+	  {
+		"name": "retaliate01",
+		"version": 26
+	  },
+	  {
+		"name": "retaliate02",
+		"version": 26
+	  },
+	  {
+		"name": "retaliate1",
+		"version": 26
+	  },
+	  {
+		"name": "retaliate2",
+		"version": 26
+	  },
+	  {
+		"name": "reversal01",
+		"version": 26
+	  },
+	  {
+		"name": "reversal02",
+		"version": 26
+	  },
+	  {
+		"name": "roar",
+		"version": 26
+	  },
+	  {
+		"name": "roaroftime1",
+		"version": 26
+	  },
+	  {
+		"name": "roaroftime2",
+		"version": 26
+	  },
+	  {
+		"name": "rock",
+		"version": 26
+	  },
+	  {
+		"name": "rockblast_1",
+		"version": 26
+	  },
+	  {
+		"name": "rockblast_2",
+		"version": 26
+	  },
+	  {
+		"name": "rockclimb",
+		"version": 26
+	  },
+	  {
+		"name": "rockpolish",
+		"version": 26
+	  },
+	  {
+		"name": "rockslide",
+		"version": 26
+	  },
+	  {
+		"name": "rocksmash01",
+		"version": 26
+	  },
+	  {
+		"name": "rocksmash02",
+		"version": 26
+	  },
+	  {
+		"name": "rocksmashed_01",
+		"version": 26
+	  },
+	  {
+		"name": "rocksmashed_02",
+		"version": 26
+	  },
+	  {
+		"name": "rockthrow01",
+		"version": 26
+	  },
+	  {
+		"name": "rockthrow02",
+		"version": 26
+	  },
+	  {
+		"name": "rocktomb1",
+		"version": 26
+	  },
+	  {
+		"name": "rocktomb2",
+		"version": 26
+	  },
+	  {
+		"name": "rockwrecker01",
+		"version": 26
+	  },
+	  {
+		"name": "rockwrecker02",
+		"version": 26
+	  },
+	  {
+		"name": "rollingkick",
+		"version": 26
+	  },
+	  {
+		"name": "rollingkick01",
+		"version": 26
+	  },
+	  {
+		"name": "rollout01",
+		"version": 26
+	  },
+	  {
+		"name": "rollout02",
+		"version": 26
+	  },
+	  {
+		"name": "roost",
+		"version": 26
+	  },
+	  {
+		"name": "rototiller_1",
+		"version": 26
+	  },
+	  {
+		"name": "round01",
+		"version": 26
+	  },
+	  {
+		"name": "round02",
+		"version": 26
+	  },
+	  {
+		"name": "ruinattack01",
+		"version": 26
+	  },
+	  {
+		"name": "ruinattack02",
+		"version": 26
+	  },
+	  {
+		"name": "sacredfire_1",
+		"version": 26
+	  },
+	  {
+		"name": "sacredfire_2",
+		"version": 26
+	  },
+	  {
+		"name": "sacredsword01",
+		"version": 26
+	  },
+	  {
+		"name": "sacredsword02",
+		"version": 26
+	  },
+	  {
+		"name": "safeguard",
+		"version": 26
+	  },
+	  {
+		"name": "sandstorm01",
+		"version": 26
+	  },
+	  {
+		"name": "sandstorm02",
+		"version": 26
+	  },
+	  {
+		"name": "sandtomb_1",
+		"version": 26
+	  },
+	  {
+		"name": "sandtomb_2",
+		"version": 26
+	  },
+	  {
+		"name": "savagechop_1",
+		"version": 26
+	  },
+	  {
+		"name": "savagechop_2",
+		"version": 26
+	  },
+	  {
+		"name": "scald_1",
+		"version": 26
+	  },
+	  {
+		"name": "scald_2",
+		"version": 26
+	  },
+	  {
+		"name": "scaryface",
+		"version": 26
+	  },
+	  {
+		"name": "scratch01",
+		"version": 26
+	  },
+	  {
+		"name": "scratch02",
+		"version": 26
+	  },
+	  {
+		"name": "screech01",
+		"version": 26
+	  },
+	  {
+		"name": "screech02",
+		"version": 26
+	  },
+	  {
+		"name": "seagodpower01",
+		"version": 26
+	  },
+	  {
+		"name": "searingshot01",
+		"version": 26
+	  },
+	  {
+		"name": "searingshot02",
+		"version": 26
+	  },
+	  {
+		"name": "secretpower01",
+		"version": 26
+	  },
+	  {
+		"name": "secretpower02",
+		"version": 26
+	  },
+	  {
+		"name": "secretsword01",
+		"version": 26
+	  },
+	  {
+		"name": "secretsword02",
+		"version": 26
+	  },
+	  {
+		"name": "seedbomb_1",
+		"version": 26
+	  },
+	  {
+		"name": "seedbomb_2",
+		"version": 26
+	  },
+	  {
+		"name": "seedflare",
+		"version": 26
+	  },
+	  {
+		"name": "seismictoss_1",
+		"version": 26
+	  },
+	  {
+		"name": "seismictoss_2",
+		"version": 26
+	  },
+	  {
+		"name": "selfdestruct01",
+		"version": 26
+	  },
+	  {
+		"name": "selfdestruct02",
+		"version": 26
+	  },
+	  {
+		"name": "seriouscollision01",
+		"version": 26
+	  },
+	  {
+		"name": "seriouscollision02",
+		"version": 26
+	  },
+	  {
+		"name": "shadowball01",
+		"version": 26
+	  },
+	  {
+		"name": "shadowball02",
+		"version": 26
+	  },
+	  {
+		"name": "shadowclaw1",
+		"version": 26
+	  },
+	  {
+		"name": "shadowclaw2",
+		"version": 26
+	  },
+	  {
+		"name": "shadowforce1",
+		"version": 26
+	  },
+	  {
+		"name": "shadowforce2",
+		"version": 26
+	  },
+	  {
+		"name": "shadowpunch_1",
+		"version": 26
+	  },
+	  {
+		"name": "shadowpunch_2",
+		"version": 26
+	  },
+	  {
+		"name": "shadowsneak_1",
+		"version": 26
+	  },
+	  {
+		"name": "shadowsneak_2",
+		"version": 26
+	  },
+	  {
+		"name": "sharpen",
+		"version": 26
+	  },
+	  {
+		"name": "sheercold_1",
+		"version": 26
+	  },
+	  {
+		"name": "sheercold_2",
+		"version": 26
+	  },
+	  {
+		"name": "shellsmash_1",
+		"version": 26
+	  },
+	  {
+		"name": "shiftgear_1",
+		"version": 26
+	  },
+	  {
+		"name": "shockwave_1",
+		"version": 26
+	  },
+	  {
+		"name": "shockwave_2",
+		"version": 26
+	  },
+	  {
+		"name": "signalbeam_1",
+		"version": 26
+	  },
+	  {
+		"name": "signalbeam_2",
+		"version": 26
+	  },
+	  {
+		"name": "silverwind",
+		"version": 26
+	  },
+	  {
+		"name": "silverwind2",
+		"version": 26
+	  },
+	  {
+		"name": "simplebeam01",
+		"version": 26
+	  },
+	  {
+		"name": "simplebeam02",
+		"version": 26
+	  },
+	  {
+		"name": "sing",
+		"version": 26
+	  },
+	  {
+		"name": "skullbash01",
+		"version": 26
+	  },
+	  {
+		"name": "skullbash02",
+		"version": 26
+	  },
+	  {
+		"name": "skyattack",
+		"version": 26
+	  },
+	  {
+		"name": "skyuppercut",
+		"version": 26
+	  },
+	  {
+		"name": "skyuppercut2",
+		"version": 26
+	  },
+	  {
+		"name": "slackoff",
+		"version": 26
+	  },
+	  {
+		"name": "slam",
+		"version": 26
+	  },
+	  {
+		"name": "slash",
+		"version": 26
+	  },
+	  {
+		"name": "sleeppowder02",
+		"version": 26
+	  },
+	  {
+		"name": "sleeptalk",
+		"version": 26
+	  },
+	  {
+		"name": "sludge01",
+		"version": 26
+	  },
+	  {
+		"name": "sludge02",
+		"version": 26
+	  },
+	  {
+		"name": "sludgebomb01",
+		"version": 26
+	  },
+	  {
+		"name": "sludgebomb02",
+		"version": 26
+	  },
+	  {
+		"name": "sludgewave1",
+		"version": 26
+	  },
+	  {
+		"name": "sludgewave2",
+		"version": 26
+	  },
+	  {
+		"name": "smackdown01",
+		"version": 26
+	  },
+	  {
+		"name": "smackdown02",
+		"version": 26
+	  },
+	  {
+		"name": "smalleff",
+		"version": 26
+	  },
+	  {
+		"name": "smellingsalts01",
+		"version": 26
+	  },
+	  {
+		"name": "smellingsalts02",
+		"version": 26
+	  },
+	  {
+		"name": "smog01",
+		"version": 26
+	  },
+	  {
+		"name": "smog02",
+		"version": 26
+	  },
+	  {
+		"name": "smokescreen02",
+		"version": 26
+	  },
+	  {
+		"name": "smokescreen03",
+		"version": 26
+	  },
+	  {
+		"name": "snarl01",
+		"version": 26
+	  },
+	  {
+		"name": "snarl02",
+		"version": 26
+	  },
+	  {
+		"name": "snore",
+		"version": 26
+	  },
+	  {
+		"name": "soak01",
+		"version": 26
+	  },
+	  {
+		"name": "soak02",
+		"version": 26
+	  },
+	  {
+		"name": "softboiled",
+		"version": 26
+	  },
+	  {
+		"name": "solarbeam01",
+		"version": 26
+	  },
+	  {
+		"name": "solarbeam02",
+		"version": 26
+	  },
+	  {
+		"name": "solarbeam04",
+		"version": 26
+	  },
+	  {
+		"name": "sonicboom1",
+		"version": 26
+	  },
+	  {
+		"name": "sonicboom2",
+		"version": 26
+	  },
+	  {
+		"name": "soulferry_1",
+		"version": 26
+	  },
+	  {
+		"name": "soulferry_2",
+		"version": 26
+	  },
+	  {
+		"name": "spacialrend1",
+		"version": 26
+	  },
+	  {
+		"name": "spacialrend2",
+		"version": 26
+	  },
+	  {
+		"name": "spark01",
+		"version": 26
+	  },
+	  {
+		"name": "spark02",
+		"version": 26
+	  },
+	  {
+		"name": "spikecannon_1",
+		"version": 26
+	  },
+	  {
+		"name": "spikecannon_2",
+		"version": 26
+	  },
+	  {
+		"name": "spikecannon_3",
+		"version": 26
+	  },
+	  {
+		"name": "spikes_1",
+		"version": 26
+	  },
+	  {
+		"name": "spikes_2",
+		"version": 26
+	  },
+	  {
+		"name": "spikyshield01",
+		"version": 26
+	  },
+	  {
+		"name": "spikyshield02",
+		"version": 26
+	  },
+	  {
+		"name": "spite1",
+		"version": 26
+	  },
+	  {
+		"name": "spite2",
+		"version": 26
+	  },
+	  {
+		"name": "spitup01",
+		"version": 26
+	  },
+	  {
+		"name": "spitup02",
+		"version": 26
+	  },
+	  {
+		"name": "splash",
+		"version": 26
+	  },
+	  {
+		"name": "spore_1",
+		"version": 26
+	  },
+	  {
+		"name": "spore_2",
+		"version": 26
+	  },
+	  {
+		"name": "stealthrock1",
+		"version": 26
+	  },
+	  {
+		"name": "stealthrock2",
+		"version": 26
+	  },
+	  {
+		"name": "steameruption01",
+		"version": 26
+	  },
+	  {
+		"name": "steameruption02",
+		"version": 26
+	  },
+	  {
+		"name": "steamroller01",
+		"version": 26
+	  },
+	  {
+		"name": "steamroller02",
+		"version": 26
+	  },
+	  {
+		"name": "steel",
+		"version": 26
+	  },
+	  {
+		"name": "steelwave01",
+		"version": 26
+	  },
+	  {
+		"name": "steelwave02",
+		"version": 26
+	  },
+	  {
+		"name": "steelwing01",
+		"version": 26
+	  },
+	  {
+		"name": "steelwing02",
+		"version": 26
+	  },
+	  {
+		"name": "stickyweb_1",
+		"version": 26
+	  },
+	  {
+		"name": "stickyweb_2",
+		"version": 26
+	  },
+	  {
+		"name": "stockpile01",
+		"version": 26
+	  },
+	  {
+		"name": "stomp",
+		"version": 26
+	  },
+	  {
+		"name": "stomp01",
+		"version": 26
+	  },
+	  {
+		"name": "stoneedge1",
+		"version": 26
+	  },
+	  {
+		"name": "stoneedge2",
+		"version": 26
+	  },
+	  {
+		"name": "storedpower_1",
+		"version": 26
+	  },
+	  {
+		"name": "storedpower_2",
+		"version": 26
+	  },
+	  {
+		"name": "stormthrow01",
+		"version": 26
+	  },
+	  {
+		"name": "stormthrow02",
+		"version": 26
+	  },
+	  {
+		"name": "strength",
+		"version": 26
+	  },
+	  {
+		"name": "stringshot01",
+		"version": 26
+	  },
+	  {
+		"name": "stringshot02",
+		"version": 26
+	  },
+	  {
+		"name": "stringshot03",
+		"version": 26
+	  },
+	  {
+		"name": "strongwater01",
+		"version": 26
+	  },
+	  {
+		"name": "strongwater02",
+		"version": 26
+	  },
+	  {
+		"name": "strugglebug_1",
+		"version": 26
+	  },
+	  {
+		"name": "strugglebug_2",
+		"version": 26
+	  },
+	  {
+		"name": "stunspore",
+		"version": 26
+	  },
+	  {
+		"name": "submission01",
+		"version": 26
+	  },
+	  {
+		"name": "submission02",
+		"version": 26
+	  },
+	  {
+		"name": "suckerpunch1",
+		"version": 26
+	  },
+	  {
+		"name": "suckerpunch2",
+		"version": 26
+	  },
+	  {
+		"name": "sunnyday",
+		"version": 26
+	  },
+	  {
+		"name": "sunsparkle01",
+		"version": 26
+	  },
+	  {
+		"name": "sunsparkle02",
+		"version": 26
+	  },
+	  {
+		"name": "sunsteelstrike01",
+		"version": 26
+	  },
+	  {
+		"name": "sunsteelstrike02",
+		"version": 26
+	  },
+	  {
+		"name": "superfang01",
+		"version": 26
+	  },
+	  {
+		"name": "superfang02",
+		"version": 26
+	  },
+	  {
+		"name": "superpower01",
+		"version": 26
+	  },
+	  {
+		"name": "superpower02",
+		"version": 26
+	  },
+	  {
+		"name": "superpowerforce_1",
+		"version": 26
+	  },
+	  {
+		"name": "superpowerforce_2",
+		"version": 26
+	  },
+	  {
+		"name": "supersonic01",
+		"version": 26
+	  },
+	  {
+		"name": "supersonic02",
+		"version": 26
+	  },
+	  {
+		"name": "surf01",
+		"version": 26
+	  },
+	  {
+		"name": "surf02",
+		"version": 26
+	  },
+	  {
+		"name": "swagger",
+		"version": 26
+	  },
+	  {
+		"name": "swallow",
+		"version": 26
+	  },
+	  {
+		"name": "sweet scent01",
+		"version": 26
+	  },
+	  {
+		"name": "sweet scent02",
+		"version": 26
+	  },
+	  {
+		"name": "sweetkiss01",
+		"version": 26
+	  },
+	  {
+		"name": "swift01",
+		"version": 26
+	  },
+	  {
+		"name": "swift02",
+		"version": 26
+	  },
+	  {
+		"name": "swordsdance",
+		"version": 26
+	  },
+	  {
+		"name": "synchronoise01",
+		"version": 26
+	  },
+	  {
+		"name": "synchronoise02",
+		"version": 26
+	  },
+	  {
+		"name": "synthesis",
+		"version": 26
+	  },
+	  {
+		"name": "tailglow",
+		"version": 26
+	  },
+	  {
+		"name": "tailslap01",
+		"version": 26
+	  },
+	  {
+		"name": "tailslap02",
+		"version": 26
+	  },
+	  {
+		"name": "tailwhip",
+		"version": 26
+	  },
+	  {
+		"name": "tailwind",
+		"version": 26
+	  },
+	  {
+		"name": "takedown_1",
+		"version": 26
+	  },
+	  {
+		"name": "takedown_2",
+		"version": 26
+	  },
+	  {
+		"name": "taunt01",
+		"version": 26
+	  },
+	  {
+		"name": "taunt02",
+		"version": 26
+	  },
+	  {
+		"name": "technoblast01",
+		"version": 26
+	  },
+	  {
+		"name": "technoblast02",
+		"version": 26
+	  },
+	  {
+		"name": "teleport",
+		"version": 26
+	  },
+	  {
+		"name": "thousandarrows_1",
+		"version": 26
+	  },
+	  {
+		"name": "thousandarrows_2",
+		"version": 26
+	  },
+	  {
+		"name": "thousandwaves_1",
+		"version": 26
+	  },
+	  {
+		"name": "thousandwaves_2",
+		"version": 26
+	  },
+	  {
+		"name": "thrash",
+		"version": 26
+	  },
+	  {
+		"name": "thrash01",
+		"version": 26
+	  },
+	  {
+		"name": "thunder",
+		"version": 26
+	  },
+	  {
+		"name": "thunderbolt01",
+		"version": 26
+	  },
+	  {
+		"name": "thunderbolt02",
+		"version": 26
+	  },
+	  {
+		"name": "thunderbomb01",
+		"version": 26
+	  },
+	  {
+		"name": "thunderbomb02",
+		"version": 26
+	  },
+	  {
+		"name": "thunderfang1",
+		"version": 26
+	  },
+	  {
+		"name": "thunderfang2",
+		"version": 26
+	  },
+	  {
+		"name": "thunderpunch",
+		"version": 26
+	  },
+	  {
+		"name": "thunderpunch01",
+		"version": 26
+	  },
+	  {
+		"name": "thundershock01",
+		"version": 26
+	  },
+	  {
+		"name": "thundershock02",
+		"version": 26
+	  },
+	  {
+		"name": "thunderwave01",
+		"version": 26
+	  },
+	  {
+		"name": "thunderwave02",
+		"version": 26
+	  },
+	  {
+		"name": "tickle",
+		"version": 26
+	  },
+	  {
+		"name": "tickle2",
+		"version": 26
+	  },
+	  {
+		"name": "topsyturvy01",
+		"version": 26
+	  },
+	  {
+		"name": "topsyturvy02",
+		"version": 26
+	  },
+	  {
+		"name": "torment01",
+		"version": 26
+	  },
+	  {
+		"name": "torment02",
+		"version": 26
+	  },
+	  {
+		"name": "tornadovortex01",
+		"version": 26
+	  },
+	  {
+		"name": "tornadovortex02",
+		"version": 26
+	  },
+	  {
+		"name": "toxic01",
+		"version": 26
+	  },
+	  {
+		"name": "toxic02",
+		"version": 26
+	  },
+	  {
+		"name": "toxicspikes1",
+		"version": 26
+	  },
+	  {
+		"name": "toxicspikes2",
+		"version": 26
+	  },
+	  {
+		"name": "triattack_1",
+		"version": 26
+	  },
+	  {
+		"name": "triattack_2",
+		"version": 26
+	  },
+	  {
+		"name": "trickortreat_1",
+		"version": 26
+	  },
+	  {
+		"name": "trickortreat_2",
+		"version": 26
+	  },
+	  {
+		"name": "trickroom",
+		"version": 26
+	  },
+	  {
+		"name": "triplekick01",
+		"version": 26
+	  },
+	  {
+		"name": "triplekick02",
+		"version": 26
+	  },
+	  {
+		"name": "trumpcard1",
+		"version": 26
+	  },
+	  {
+		"name": "trumpcard2",
+		"version": 26
+	  },
+	  {
+		"name": "twineedle01",
+		"version": 26
+	  },
+	  {
+		"name": "twineedle02",
+		"version": 26
+	  },
+	  {
+		"name": "twister1",
+		"version": 26
+	  },
+	  {
+		"name": "twister2",
+		"version": 26
+	  },
+	  {
+		"name": "ultimatedestruction01",
+		"version": 26
+	  },
+	  {
+		"name": "ultimatedestruction02",
+		"version": 26
+	  },
+	  {
+		"name": "undercurrentvortex_1",
+		"version": 26
+	  },
+	  {
+		"name": "undercurrentvortex_2",
+		"version": 26
+	  },
+	  {
+		"name": "uproar",
+		"version": 26
+	  },
+	  {
+		"name": "uturn1",
+		"version": 26
+	  },
+	  {
+		"name": "uturn2",
+		"version": 26
+	  },
+	  {
+		"name": "vacuumwave_1",
+		"version": 26
+	  },
+	  {
+		"name": "vacuumwave_2",
+		"version": 26
+	  },
+	  {
+		"name": "vcreate01",
+		"version": 26
+	  },
+	  {
+		"name": "vcreate02",
+		"version": 26
+	  },
+	  {
+		"name": "venomdrench01",
+		"version": 26
+	  },
+	  {
+		"name": "venomdrench02",
+		"version": 26
+	  },
+	  {
+		"name": "venoshock_01",
+		"version": 26
+	  },
+	  {
+		"name": "venoshock_02",
+		"version": 26
+	  },
+	  {
+		"name": "vicegrip",
+		"version": 26
+	  },
+	  {
+		"name": "vicegrip01",
+		"version": 26
+	  },
+	  {
+		"name": "vinewhip",
+		"version": 26
+	  },
+	  {
+		"name": "vinewhip2",
+		"version": 26
+	  },
+	  {
+		"name": "vitalthrow01",
+		"version": 26
+	  },
+	  {
+		"name": "vitalthrow02",
+		"version": 26
+	  },
+	  {
+		"name": "voltswitch_1",
+		"version": 26
+	  },
+	  {
+		"name": "voltswitch_2",
+		"version": 26
+	  },
+	  {
+		"name": "volttackle_1",
+		"version": 26
+	  },
+	  {
+		"name": "volttackle_2",
+		"version": 26
+	  },
+	  {
+		"name": "wakeupslap1",
+		"version": 26
+	  },
+	  {
+		"name": "wakeupslap2",
+		"version": 26
+	  },
+	  {
+		"name": "water",
+		"version": 26
+	  },
+	  {
+		"name": "waterfall01",
+		"version": 26
+	  },
+	  {
+		"name": "waterfall02",
+		"version": 26
+	  },
+	  {
+		"name": "waterflow_1",
+		"version": 26
+	  },
+	  {
+		"name": "waterflow_2",
+		"version": 26
+	  },
+	  {
+		"name": "watergun01",
+		"version": 26
+	  },
+	  {
+		"name": "watergun02",
+		"version": 26
+	  },
+	  {
+		"name": "waterpulse_1",
+		"version": 26
+	  },
+	  {
+		"name": "waterpulse_2",
+		"version": 26
+	  },
+	  {
+		"name": "watershockwave01",
+		"version": 26
+	  },
+	  {
+		"name": "watershockwave02",
+		"version": 26
+	  },
+	  {
+		"name": "watershuriken01",
+		"version": 26
+	  },
+	  {
+		"name": "watershuriken02",
+		"version": 26
+	  },
+	  {
+		"name": "watershuriken03",
+		"version": 26
+	  },
+	  {
+		"name": "watersport",
+		"version": 26
+	  },
+	  {
+		"name": "waterspout_1",
+		"version": 26
+	  },
+	  {
+		"name": "waterspout_2",
+		"version": 26
+	  },
+	  {
+		"name": "waveguidecut_1",
+		"version": 26
+	  },
+	  {
+		"name": "waveguidecut_2",
+		"version": 26
+	  },
+	  {
+		"name": "weatherball1",
+		"version": 26
+	  },
+	  {
+		"name": "weatherball2",
+		"version": 26
+	  },
+	  {
+		"name": "whirlpool01",
+		"version": 26
+	  },
+	  {
+		"name": "whirlpool02",
+		"version": 26
+	  },
+	  {
+		"name": "whirlwind",
+		"version": 26
+	  },
+	  {
+		"name": "whirlwind02",
+		"version": 26
+	  },
+	  {
+		"name": "whitewater01",
+		"version": 26
+	  },
+	  {
+		"name": "whitewater02",
+		"version": 26
+	  },
+	  {
+		"name": "wildcharge_01",
+		"version": 26
+	  },
+	  {
+		"name": "wildcharge_02",
+		"version": 26
+	  },
+	  {
+		"name": "willowisp01",
+		"version": 26
+	  },
+	  {
+		"name": "willowisp02",
+		"version": 26
+	  },
+	  {
+		"name": "wingattack",
+		"version": 26
+	  },
+	  {
+		"name": "wish",
+		"version": 26
+	  },
+	  {
+		"name": "withdraw",
+		"version": 26
+	  },
+	  {
+		"name": "wonderroom",
+		"version": 26
+	  },
+	  {
+		"name": "woodhammer1",
+		"version": 26
+	  },
+	  {
+		"name": "woodhammer2",
+		"version": 26
+	  },
+	  {
+		"name": "workup_1",
+		"version": 26
+	  },
+	  {
+		"name": "worryseed1",
+		"version": 26
+	  },
+	  {
+		"name": "worryseed2",
+		"version": 26
+	  },
+	  {
+		"name": "wrap01",
+		"version": 26
+	  },
+	  {
+		"name": "wrap02",
+		"version": 26
+	  },
+	  {
+		"name": "wringout1",
+		"version": 26
+	  },
+	  {
+		"name": "wringout2",
+		"version": 26
+	  },
+	  {
+		"name": "xscissor_1",
+		"version": 26
+	  },
+	  {
+		"name": "xscissor_2",
+		"version": 26
+	  },
+	  {
+		"name": "yawn01",
+		"version": 26
+	  },
+	  {
+		"name": "yawn02",
+		"version": 26
+	  },
+	  {
+		"name": "zapcannon01",
+		"version": 26
+	  },
+	  {
+		"name": "zapcannon02",
+		"version": 26
+	  },
+	  {
+		"name": "zenheadbutt_1",
+		"version": 26
+	  },
+	  {
+		"name": "zenheadbutt_2",
+		"version": 26
+	  },
+	  {
+		"name": "atolloise",
+		"version": 26
+	  },
+	  {
+		"name": "bearmare",
+		"version": 26
+	  },
+	  {
+		"name": "blazlet",
+		"version": 26
+	  },
+	  {
+		"name": "blizzora",
+		"version": 26
+	  },
+	  {
+		"name": "bloomsee",
+		"version": 26
+	  },
+	  {
+		"name": "bluezilla",
+		"version": 26
+	  },
+	  {
+		"name": "bookwyrm",
+		"version": 26
+	  },
+	  {
+		"name": "bouldorable",
+		"version": 26
+	  },
+	  {
+		"name": "buckalloy",
+		"version": 26
+	  },
+	  {
+		"name": "camprikine",
+		"version": 26
+	  },
+	  {
+		"name": "caracell",
+		"version": 26
+	  },
+	  {
+		"name": "champlion",
+		"version": 26
+	  },
+	  {
+		"name": "chikito",
+		"version": 26
+	  },
+	  {
+		"name": "coalbra",
+		"version": 26
+	  },
+	  {
+		"name": "comboworm",
+		"version": 26
+	  },
+	  {
+		"name": "craggon",
+		"version": 26
+	  },
+	  {
+		"name": "cupidove",
+		"version": 26
+	  },
+	  {
+		"name": "deksciple",
+		"version": 26
+	  },
+	  {
+		"name": "dekute",
+		"version": 26
+	  },
+	  {
+		"name": "desuke",
+		"version": 26
+	  },
+	  {
+		"name": "dexdeux",
+		"version": 26
+	  },
+	  {
+		"name": "dexdrei",
+		"version": 26
+	  },
+	  {
+		"name": "dexfyre",
+		"version": 26
+	  },
+	  {
+		"name": "dexuno",
+		"version": 26
+	  },
+	  {
+		"name": "dominevo",
+		"version": 26
+	  },
+	  {
+		"name": "dosoil",
+		"version": 26
+	  },
+	  {
+		"name": "doubeel",
+		"version": 26
+	  },
+	  {
+		"name": "dovamour",
+		"version": 26
+	  },
+	  {
+		"name": "drakefly",
+		"version": 26
+	  },
+	  {
+		"name": "drakevo",
+		"version": 26
+	  },
+	  {
+		"name": "dregg",
+		"version": 26
+	  },
+	  {
+		"name": "echomaus",
+		"version": 26
+	  },
+	  {
+		"name": "eschargot",
+		"version": 26
+	  },
+	  {
+		"name": "falcolt",
+		"version": 26
+	  },
+	  {
+		"name": "farinade",
+		"version": 26
+	  },
+	  {
+		"name": "fawneel",
+		"version": 26
+	  },
+	  {
+		"name": "floatiloch",
+		"version": 26
+	  },
+	  {
+		"name": "frostoast",
+		"version": 26
+	  },
+	  {
+		"name": "fungas",
+		"version": 26
+	  },
+	  {
+		"name": "furnice",
+		"version": 26
+	  },
+	  {
+		"name": "gardsee",
+		"version": 26
+	  },
+	  {
+		"name": "ghopher",
+		"version": 26
+	  },
+	  {
+		"name": "gorcano",
+		"version": 26
+	  },
+	  {
+		"name": "gorlit",
+		"version": 26
+	  },
+	  {
+		"name": "gorox",
+		"version": 26
+	  },
+	  {
+		"name": "grizleaf",
+		"version": 26
+	  },
+	  {
+		"name": "hassurugu",
+		"version": 26
+	  },
+	  {
+		"name": "hauntevo",
+		"version": 26
+	  },
+	  {
+		"name": "hookanga",
+		"version": 26
+	  },
+	  {
+		"name": "kangkross",
+		"version": 26
+	  },
+	  {
+		"name": "kickundra",
+		"version": 26
+	  },
+	  {
+		"name": "koigar",
+		"version": 26
+	  },
+	  {
+		"name": "koigup",
+		"version": 26
+	  },
+	  {
+		"name": "leximinth",
+		"version": 26
+	  },
+	  {
+		"name": "locuna",
+		"version": 26
+	  },
+	  {
+		"name": "loftevo",
+		"version": 26
+	  },
+	  {
+		"name": "lunacoon",
+		"version": 26
+	  },
+	  {
+		"name": "lycub",
+		"version": 26
+	  },
+	  {
+		"name": "masakaridon",
+		"version": 26
+	  },
+	  {
+		"name": "meganeudra",
+		"version": 26
+	  },
+	  {
+		"name": "miraflect",
+		"version": 26
+	  },
+	  {
+		"name": "mirrate",
+		"version": 26
+	  },
+	  {
+		"name": "monking",
+		"version": 26
+	  },
+	  {
+		"name": "moontis",
+		"version": 26
+	  },
+	  {
+		"name": "mummole",
+		"version": 26
+	  },
+	  {
+		"name": "navixy",
+		"version": 26
+	  },
+	  {
+		"name": "nightmort",
+		"version": 26
+	  },
+	  {
+		"name": "ninesee",
+		"version": 26
+	  },
+	  {
+		"name": "odonymph",
+		"version": 26
+	  },
+	  {
+		"name": "opawan",
+		"version": 26
+	  },
+	  {
+		"name": "pandozer",
+		"version": 26
+	  },
+	  {
+		"name": "panlow",
+		"version": 26
+	  },
+	  {
+		"name": "peafrost",
+		"version": 26
+	  },
+	  {
+		"name": "pincub",
+		"version": 26
+	  },
+	  {
+		"name": "polluvern",
+		"version": 26
+	  },
+	  {
+		"name": "pupple",
+		"version": 26
+	  },
+	  {
+		"name": "r3v-up",
+		"version": 26
+	  },
+	  {
+		"name": "radarent",
+		"version": 26
+	  },
+	  {
+		"name": "raftnesse",
+		"version": 26
+	  },
+	  {
+		"name": "raival",
+		"version": 26
+	  },
+	  {
+		"name": "reingifir",
+		"version": 26
+	  },
+	  {
+		"name": "rockonid",
+		"version": 26
+	  },
+	  {
+		"name": "romanfrig",
+		"version": 26
+	  },
+	  {
+		"name": "roojab",
+		"version": 26
+	  },
+	  {
+		"name": "scorpyd",
+		"version": 26
+	  },
+	  {
+		"name": "sharku",
+		"version": 26
+	  },
+	  {
+		"name": "shellacay",
+		"version": 26
+	  },
+	  {
+		"name": "skultergeist",
+		"version": 26
+	  },
+	  {
+		"name": "skwerberos",
+		"version": 26
+	  },
+	  {
+		"name": "skwimera",
+		"version": 26
+	  },
+	  {
+		"name": "skwitzen",
+		"version": 26
+	  },
+	  {
+		"name": "slisces",
+		"version": 26
+	  },
+	  {
+		"name": "smogshroom",
+		"version": 26
+	  },
+	  {
+		"name": "snattery",
+		"version": 26
+	  },
+	  {
+		"name": "soarnap",
+		"version": 26
+	  },
+	  {
+		"name": "soarnox",
+		"version": 26
+	  },
+	  {
+		"name": "soleel",
+		"version": 26
+	  },
+	  {
+		"name": "somnap",
+		"version": 26
+	  },
+	  {
+		"name": "spectreat",
+		"version": 26
+	  },
+	  {
+		"name": "spookoon",
+		"version": 26
+	  },
+	  {
+		"name": "spydull",
+		"version": 26
+	  },
+	  {
+		"name": "sumbear",
+		"version": 26
+	  },
+	  {
+		"name": "swiftling",
+		"version": 26
+	  },
+	  {
+		"name": "teddream",
+		"version": 26
+	  },
+	  {
+		"name": "tetrapion",
+		"version": 26
+	  },
+	  {
+		"name": "tidju",
+		"version": 26
+	  },
+	  {
+		"name": "tipply",
+		"version": 26
+	  },
+	  {
+		"name": "triplydra",
+		"version": 26
+	  },
+	  {
+		"name": "turtislet",
+		"version": 26
+	  },
+	  {
+		"name": "twilevo",
+		"version": 26
+	  },
+	  {
+		"name": "veloswift",
+		"version": 26
+	  },
+	  {
+		"name": "venturevo",
+		"version": 26
+	  },
+	  {
+		"name": "volcanolisk",
+		"version": 26
+	  },
+	  {
+		"name": "vyphern",
+		"version": 26
+	  },
+	  {
+		"name": "wintursa",
+		"version": 26
+	  },
+	  {
+		"name": "wolpan",
+		"version": 26
+	  },
+	  {
+		"name": "wyvegg",
+		"version": 26
+	  },
+	  {
+		"name": "wyverdant",
+		"version": 26
+	  },
+	  {
+		"name": "zorelle",
+		"version": 26
+	  },
+	  {
+		"name": "zorene",
+		"version": 26
+	  },
+	  {
+		"name": "vachita",
+		"version": 26
+	  },
+	  {
+		"name": "vacapow",
+		"version": 26
+	  },
+	  {
+		"name": "moomega",
+		"version": 26
+	  },
+	  {
+		"name": "hobeex",
+		"version": 26
+	  },
+	  {
+		"name": "honikoba",
+		"version": 26
+	  },
+	  {
+		"name": "rokilo",
+		"version": 26
+	  },
+	  {
+		"name": "gravilon",
+		"version": 26
+	  },
+	  {
+		"name": "construkto",
+		"version": 26
+	  },
+	  {
+		"name": "yelloon",
+		"version": 26
+	  },
+	  {
+		"name": "roughoon",
+		"version": 26
+	  },
+	  {
+		"name": "azuroon",
+		"version": 26
+	  },
+	  {
+		"name": "kasket",
+		"version": 26
+	  },
+	  {
+		"name": "skadire",
+		"version": 26
+	  },
+	  {
+		"name": "khepreetle",
+		"version": 26
+	  },
+	{
+		"name": "murdoll",
+		"version": 26
+	},
+	{
+		"name": "holleader",
+		"version": 26
+	},
+	{
+		"name": "kindling",
+		"version": 26
+	},
+	{
+		"name": "elvifir",
+		"version": 26
+	},
+	{
+		"name": "twinkletree",
+		"version": 26
+	},
+	{
+		"name": "Sparknite",
+		"version": 26
+	},
+	{
+		"name": "Immubolt",
+		"version": 26
+	},
+	{
+		"name": "Immutable",
+		"version": 26
+	},
+	{"name": "balletrix", "version": 37 },
+	{"name": "bambug", "version": 37 },
+	{"name": "bambupa", "version": 37 },
+	{"name": "beatbark", "version": 37 },
+	{"name": "berryball", "version": 37 },
+	{"name": "bogloom", "version": 37 },
+	{"name": "bonecrow", "version": 37 },
+	{"name": "booberry", "version": 37 },
+	{"name": "brollo", "version": 37 },
+	{"name": "bullre", "version": 37 },
+	{"name": "burnabit", "version": 37 },
+	{"name": "buzziron", "version": 37 },
+	{"name": "calfie", "version": 37 },
+	{"name": "calfing", "version": 37 },
+	{"name": "calforge", "version": 37 },
+	{"name": "capfin", "version": 37 },
+	{"name": "carpentray", "version": 37 },
+	{"name": "chillipup", "version": 37 },
+	{"name": "clamsnap", "version": 37 },
+	{"name": "clawarb", "version": 37 },
+	{"name": "cublitz", "version": 37 },
+	{"name": "cublycan", "version": 37 },
+	{"name": "dairybell", "version": 37 },
+	{"name": "drakosire", "version": 37 },
+	{"name": "dribbom", "version": 37 },
+	{"name": "episcionis", "version": 37 },
+	{"name": "fulmarauder", "version": 37 },
+	{"name": "fluffae", "version": 37 },
+	{"name": "frigorb", "version": 37 },
+	{"name": "frutslam", "version": 37 },
+	{"name": "furguard", "version": 37 },
+	{"name": "gloombog", "version": 37 },
+	{"name": "gloomith", "version": 37 },
+	{"name": "gloomshell", "version": 37 },
+	{"name": "groveking", "version": 37 },
+	{"name": "hivelit", "version": 37 },
+	{"name": "hydraquill", "version": 37 },
+	{"name": "ignitick", "version": 37 },
+	{"name": "inkspire", "version": 37 },
+	{"name": "ironmaw", "version": 37 },
+	{"name": "kaboomboo", "version": 37 },
+	{"name": "ketzalstone", "version": 37 },
+	{"name": "lavapod", "version": 37 },
+	{"name": "liluck", "version": 37 },
+	{"name": "majestican", "version": 37 },
+	{"name": "marsquish", "version": 37 },
+	{"name": "melomallow", "version": 37 },
+	{"name": "merelion", "version": 37 },
+	{"name": "minirit", "version": 37 },
+	{"name": "monarchat", "version": 37 },
+	{"name": "noctarok", "version": 37 },
+	{"name": "nursus", "version": 37 },
+	{"name": "orbby", "version": 37 },
+	{"name": "panduff", "version": 37 },
+	{"name": "pestibat", "version": 37 },
+	{"name": "petaloon", "version": 37 },
+	{"name": "phantross", "version": 37 },
+	{"name": "pigbee", "version": 37 },
+	{"name": "plaguepire", "version": 37 },
+	{"name": "poshkit", "version": 37 },
+	{"name": "prismira", "version": 37 },
+	{"name": "psymonkit", "version": 37 },
+	{"name": "pupfurr", "version": 37 },
+	{"name": "purptox", "version": 37 },
+	{"name": "pyroker", "version": 37 },
+	{"name": "pyrophia", "version": 37 },
+	{"name": "raog", "version": 37 },
+	{"name": "maraudo", "version": 37 },
+	{"name": "rocanid", "version": 37 },
+	{"name": "rocaztec", "version": 37 },
+	{"name": "samurastick", "version": 37 },
+	{"name": "sanctifin", "version": 37 },
+	{"name": "scalord", "version": 37 },
+	{"name": "seraphlea", "version": 37 },
+	{"name": "shalrock", "version": 37 },
+	{"name": "sharble", "version": 37 },
+	{"name": "shellaboo", "version": 37 },
+	{"name": "silvariss", "version": 37 },
+	{"name": "sizzlebun", "version": 37 },
+	{"name": "solbean", "version": 37 },
+	{"name": "solderon", "version": 37 },
+	{"name": "spectraloom", "version": 37 },
+	{"name": "spriglet", "version": 37 },
+	{"name": "sproutkin", "version": 37 },
+	{"name": "steelbuzz", "version": 37 },
+	{"name": "stenchir", "version": 37 },
+	{"name": "strikeleef", "version": 37 },
+	{"name": "toxilisk", "version": 37 },
+	{"name": "trapodon", "version": 37 },
+	{"name": "umbrino", "version": 37 },
+	{"name": "vespor", "version": 37 },
+	{"name": "voltolot", "version": 37 },
+	{"name": "warble", "version": 37 },
+	{"name": "warhi", "version": 37 },
+	{"name": "zenithape", "version": 37 },
+	{"name": "gizaith", "version": 37 },
+	{"name": "cryaxe", "version": 37 },
+	{"name": "crylance", "version": 37 },
+	{"name": "shadeon", "version": 37 },
+	{"name": "zorvix", "version": 37 },
+	{"name": "avia", "version": 37 },
+	{"name": "bulmag", "version": 37 },
+	{"name": "carnivineer", "version": 37 },
+	{"name": "crabiscus", "version": 37 },
+	{"name": "durakar", "version": 37 },
+	{"name": "electide", "version": 37 },
+	{"name": "folagon", "version": 37 },
+	{"name": "leafasso", "version": 37 },
+	{"name": "luxtract", "version": 37 },
+	{"name": "murkspecter", "version": 37 },
+	{"name": "myraclune", "version": 37 },
+	{"name": "mystariel", "version": 37 },
+	{"name": "narvethos", "version": 37 },
+	{"name": "nivisowl", "version": 37 },
+	{"name": "oxidron", "version": 37 },
+	{"name": "pyroadrift", "version": 37 },
+	{"name": "urnacle", "version": 37 },
+	{"name": "wardolith", "version": 37 },
+	{"name": "admirargh", "version": 37 },
+	{"name": "papirate", "version": 37 },
+	{"name": "swabbit", "version": 37 },
+	{"name": "budly", "version": 37 },
+	{"name": "budrall", "version": 37 },
+	{"name": "rosprina", "version": 37 },
+	{"name": "arcetron", "version": 37 },
+	{"name": "bellicent", "version": 37 },
+	{"name": "coilite", "version": 37 },
+	{"name": "dormifrog", "version": 37 },
+	{"name": "fetiflora", "version": 37 },
+	{"name": "judicrypt", "version": 37 },
+	{"name": "metaflutter", "version": 37 },
+	{"name": "pestillia", "version": 37 },
+	{"name": "rotbloom", "version": 37 },
+	{"name": "sleepitad", "version": 37 },
+	{"name": "sonattin", "version": 37 },
+	{"name": "sooni", "version": 37 },
+	{"name": "soperelle", "version": 37 },
+	{"name": "spikrust", "version": 37 },
+	{"name": "stalagrunge", "version": 37 },
+	{"name": "tintoll", "version": 37 },
+	{"name": "umbravix", "version": 37 },
+	{"name": "vitraelume", "version": 37 },
+	{"name": "bastarmor", "version": 37 },
+	{"name": "chiselbug", "version": 37 },
+	{"name": "divulkra", "version": 37 },
+	{"name": "glaciox", "version": 37 },
+	{"name": "mootide", "version": 37 },
+	{"name": "ofurage", "version": 37 },
+	{"name": "scararok", "version": 37 },
+	{"name": "sparantula", "version": 37 },
+	{"name": "tagami", "version": 37 },
+	{"name": "plumystic", "version": 37 },
+	{"name": "prestodove", "version": 37 },
+	{"name": "squablitz", "version": 37 },
+	{"name": "antlorion", "version": 37 },
+	{"name": "paragon", "version": 37 },
+	{"name": "verdawn", "version": 37 },
+	{"name": "xaltek", "version": 37 },
+	{"name": "barkshade", "version": 37 },
+	{"name": "birkid", "version": 37 },
+	{"name": "calystrix", "version": 37 },
+	{"name": "coronibex", "version": 37 },
+	{"name": "gyraxis", "version": 37 },
+	{"name": "gyronix", "version": 37 },
+	{"name": "gyrop", "version": 37 },
+	{"name": "sylvraith", "version": 37 }
+	]
+  }
