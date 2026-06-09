@@ -1,5 +1,5 @@
 {
-	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
+	"ip": "https://cdn.revomon.io/",
 	"globalversionincrement": 1,
 	"gameversion": "0.0.1",
 	"showspecialsplash":false,
