@@ -1,6 +1,6 @@
 {
 	"ip": "https://cdn.revomon.io/",
-	"globalversionincrement": 3,
+	"globalversionincrement": 4,
 	"gameversion": "0.0.1",
 	"showspecialsplash":false,
 	"assets": [
@@ -22,7 +22,7 @@
 	  },
 	  {
 		"name": "_preload",
-		"version": 387
+		"version": 388
 	  },
 	  {
 		"name": "lobby",
